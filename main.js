@@ -13,8 +13,8 @@ var plugged = new Plugged();
 plugged.log = console.log;
 
 // log into the service
-plugged.login({ email: "", password: "" });
-//fb login
+// plugged.login({ email: "", password: "" });
+// Facebook
 /*
 plugged.login({
     userID: "your ID here",
