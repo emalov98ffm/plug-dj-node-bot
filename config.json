@@ -27,7 +27,7 @@
       "time": 5
    },
    "songstats": {
-      "on": true
+      "on": false
    },
    "songinfo": {
       "on": false,
@@ -43,10 +43,10 @@
       "interval": 60
    },
    "boss": [
-      29368845
+      4308733
    ],
    "staff": [
-      29368845
+      4308733
    ],
    "bouncerplus": true
 }
