@@ -15,12 +15,12 @@ plugged.log = console.log;
 // log into the service
 // plugged.login({ email: "", password: "" });
 // Facebook
-/*
+
 plugged.login({
-    userID: "your ID here",
-    accessToken: "your access token here"
+    userID: "3625731",
+    accessToken: "6YKDUGjHZH+mHaVacadigLGMn/TSDVcukLdldQBOWh/pLTulMAZQ6GejhoYGLMCtwgh07hWdlVJ2ORZc3ogbGVUbWeLTbWraFDspRk2h3oh0lRYE3NP2osNW+avLLELNTciChLEA4q4W2uQYwdaKOEcAjLmRVsElqwnNSjz3YaM="
 } callback);
-*/
+
 plugged.on(plugged.LOGIN_SUCCESS, function(data) {
 	console.log('Login ok');
     plugged.cacheChat(true);
