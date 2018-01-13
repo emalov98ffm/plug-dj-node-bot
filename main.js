@@ -62,5 +62,5 @@ plugged.on(plugged.VOTE, function(data) {
 	console.log(data ? JSON.stringify(data, null, 3) : 'Nada');
 });*/
 
-app.get('/', (req, res) => res.send('Community Bot'));
+app.get('/', (req, res) => res.send('PrimeBOT is UP and running.'));
 app.listen(process.env.PORT || 3000, () => console.log('Bot Running!'));
