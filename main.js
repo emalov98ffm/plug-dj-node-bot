@@ -24,7 +24,7 @@ plugged.log = console.log;
 plugged.on(plugged.LOGIN_SUCCESS, function(data) {
 	console.log('Login ok');
     plugged.cacheChat(true);
-    plugged.connect("best-party-19");
+    plugged.connect("yugoslavia-balkan-music");
 });
 
 plugged.on(plugged.LOGIN_ERROR, function(err) {
