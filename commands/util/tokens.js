@@ -83,7 +83,6 @@ var tokens = {
 	roleRequired: 'user',
 	exec: function(bot, chat, data) {
 				bot.sendChat(utils.replaceString(lang.tTokens.tokens, {user: chat.username, utokens: userTokens}), 30e3);
-				break;
 
 	}
 };
