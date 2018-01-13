@@ -53,6 +53,7 @@ var historycheck = {
     			lastuser: histResult.user.username,
     			time: utils.timeToString(utils.timeConvert(timediff))
     		}));
+			bot.skipDJ(userdj.username);
     	    
     	    if (timediff < settings.data.historycheck.timeInterval * 60 * 1e3)
     	        return auxapi.lockskip(settings.data.lockskip);
