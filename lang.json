@@ -8,6 +8,9 @@
         "off": "Iskljuceno"
     },
     "ping" : {
+        "tokens": "[tokens] @%%USER%% Imas %utokens% tokena."
+    },
+     "tTokens" : {
         "ping": "[Ping] @%%USER%% pong!",
         "pong": "[Ping] @%%USER%% ping!",
         "bot": "[Ping] @%%USER%% Sta hoces?"
