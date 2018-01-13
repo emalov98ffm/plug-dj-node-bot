@@ -69,69 +69,69 @@
     "medialimit": {
         "limit": "[MEDIALIMIT] @%%USER%% Stavi vremenski limit: %%LIMIT%%",
         "disabled": "[MEDIALIMIT] @%%USER%% Limit je iskljucen",
-        "invalidLimit": "[MEDIALIMIT] @%%USER%% Limit mora biti veci od nule!",
-        "lockskip": "[MEDIALIMIT] @%%USER%% DJ ce biti skipovan i premesten na poziciju %%POS%%",
-        "lockskipDis": "[MEDIALIMIT] @%%USER%% lockskip je iskljucen.",
-        "siDisabled": "[MEDIALIMIT] @%%USER%% Pjesma ce biti skipovana kada dostigne limit.",
-        "siEnabled": "[MEDIALIMIT] @%%USER%% Pjesma ce biti skipovana odma ako predje definisani limit.",
-        "skip": "[MEDIALIMIT] @%%USER%% Tvoja pjesma je presla limit od %%TIME%% i bice preskocena!",
-        "skipAfterLimit": "[MEDIALIMIT] @%%USER%% Tvoja pjesma je presla timeout od %%TIME%% i bice skipovana poslije tog vremena!"
+        "invalidLimit": "[mod] mialimit] @%%USER%% Limit mora biti veci od nule!",
+        "lockskip": "[warning] [medialimit] @%%USER%% DJ ce biti skipovan i premesten na poziciju %%POS%%",
+        "lockskipDis": "[mod] [medialimit] @%%USER%% lockskip je iskljucen.",
+        "siDisabled": "[mod] [medialimit] @%%USER%% Pjesma ce biti skipovana kada dostigne limit.",
+        "siEnabled": "[mod] [medialimit] @%%USER%% Pjesma ce biti skipovana odma ako predje definisani limit.",
+        "skip": "[warning] [medialimit] @%%USER%% Tvoja pjesma je presla maximalnu duzinu od %%TIME%% i bice preskocena!",
+        "skipAfterLimit": "[warning] [medialimit] @%%USER%% Tvoja pjesma je presla maximalnu duzinu od %%TIME%% i bice skipovana poslije tog vremena!"
     },
     "bouncerplus": {
-        "actived": "[BOUNCER+] @%%USER%% bouncer+ je aktiviran!",
-        "disactived": "[BOUNCER+] @%%USER%% bouncer+ je deaktiviran!!"
+        "actived": "bouncer+] @%%USER%% Bouncer+ je aktiviran!",
+        "disactived": "[bouncer+] @%%USER%% Bouncer+ je deaktiviran!!"
     },
     "autoskip": {
-        "status": "[AUTOSKIP] @%%USER%% autoskip: %%ON%%, Vreme posle pjesme: %%TIME%%",
-        "enabled": "[AUTOSKIP] @%%USER%% autoskip aktiviran!",
-        "disabled": "[AUTOSKIP] @%%USER%% autoskip deaktiviran!",
-        "time": "[AUTOSKIP] @%%USER%% DJ ce biti skipovan posle %%TIME%% sekundi!"
+        "status": "[info] [autoskip] @%%USER%% autoskip: %%ON%%, Vreme posle pjesme: %%TIME%%",
+        "enabled": "[autoskip] @%%USER%% Autoskip aktiviran!",
+        "disabled": "[autoskip] @%%USER%% Autoskip deaktiviran!",
+        "time": "[warning] [autoskip] @%%USER%% DJ ce biti skipovan posle %%TIME%% sekundi!"
     },
     "lockskip": {
-        "noDJ": "[LOCKSKIP] @%%USER%% Nema DJ-a za preskakanje!",
-        "skip": "[LOCKSKIP] %%USER%% Preskocen je trenutni DJ i premesten na %%POS%%"
+        "noDJ": "[lockskip] @%%USER%% Nema DJ-a za preskakanje!",
+        "skip": "[lockskip] %%USER%% Preskocen je trenutni DJ i premesten na %%POS%%"
     },
     "songstats": {
-        "enabled": "[INFO] @%%USER%% songstats aktiviran!",
-        "disabled": "[INFO] @%%USER%% songstats deaktiviran!",
-        "stats": "[INFO] %%USER%% Pjesma: %%AUTHOR%% - %%TITLE%% (%%WOOT%% :+1: %%GRAB%% :blue_heart: %%MEH%% :-1: )"
+        "enabled": "[info] @%%USER%% Songstats aktiviran!",
+        "disabled": "[songstats] @%%USER%% Songstats deaktiviran!",
+        "stats": "[info] %%USER%% Pjesma: %%AUTHOR%% - %%TITLE%% (%%WOOT%% :+1: %%GRAB%% :blue_heart: %%MEH%% :-1: )"
     },
     "songinfo": {
-        "enabled": "[SONGINFO] @%%USER%% songinfo aktiviran!",
-        "disabled": "[SONGINFO] @%%USER%% songinfo deaktiviran!",
-        "notLoaded": "[SONGINFO] @%%USER%% Nema informacija o trenutnoj stavki.",
-        "statsYT": "[SONGINFO] %%USER%% dodiruje : %%NAME%% ( :oci: %%VIEWS%% , :+1: %%LIKE%%, :-1: %%DISLIKE%%, Komentari: %%COMMENTS%%, dužina: %%DUR%%), Uploudovano: %%UPLOADED%%)",
-        "statsSC": "[SONGINFO] %%USER%% pušta: %%NAME%% (Reprodukcija: %%PLAY%%, :zvijezda:: %%STARS%%, žanr: %%GENRE%%, skidanja: %%DL%%, uploudovano: %%UPLOADED%%, dužina: %%DUR%%)",
-	"shorterDuration": "[SONGINFO] %%USER%% Pjesma koja je puštena traje manje od orginala (%%PLUGTIME%%, %%SOURCETIME%%).Kao posljedica toga, neće se reproducirati u cijelosti. ",
-        "longerDuration": "[SONGINFO] %%USER%% Pjesma koja je puštena traje duže od orginala (%%PLUGTIME%%, %%SOURCETIME%%),kao rezultat toga, preskočit će se nakon stvarnog trajanja." ,
-        "infoFailed": "[SONGINFO] Nema trenutnih informacija o pjesmi. ",
-        "notFound": "[SONGINFO] @ %%USER%% Video / privatna ili nedostupna glazba,biti će skipovana %%POS%% u redu!",
-        "coutryUnavaliable": "[SONGINFO] @%%USER%% videozapis se ne može reproducirati u ovoj zemlji, bit će skipovan. %%POS%% u redu!",
-        "embedDisabled": "[SONGINFO] @%%USER%%Ovaj se videozapis može pregledati samo na youtube stranici,biti će skipovan.%%POS%% u redu!"
+        "enabled": "[mod] [songinfo] @%%USER%% Songinfo aktiviran!",
+        "disabled": "[mod] [songinfo] @%%USER%% Songinfo deaktiviran!",
+        "notLoaded": "[stats] [songinfo] @%%USER%% Nema informacija o trenutnoj stavki.",
+        "statsYT": "[stats] [songinfo] %%USER%% dodiruje : %%NAME%% ( :oci: %%VIEWS%% , :+1: %%LIKE%%, :-1: %%DISLIKE%%, Komentari: %%COMMENTS%%, dužina: %%DUR%%), Uploudovano: %%UPLOADED%%)",
+        "statsSC": "[stats] [songinfo] %%USER%% pušta: %%NAME%% (Reprodukcija: %%PLAY%%, :zvijezda:: %%STARS%%, žanr: %%GENRE%%, skidanja: %%DL%%, uploudovano: %%UPLOADED%%, dužina: %%DUR%%)",
+	"shorterDuration": "[warning] [songinfo] %%USER%% Pjesma koja je puštena traje manje od orginala (%%PLUGTIME%%, %%SOURCETIME%%).Kao posljedica toga, neće se reproducirati u cijelosti. ",
+        "longerDuration": "[warning] [songinfo] %%USER%% Pjesma koja je puštena traje duže od orginala (%%PLUGTIME%%, %%SOURCETIME%%), kao rezultat toga, preskočit će se nakon stvarnog trajanja." ,
+        "infoFailed": "[info] [songinfo] Nemam trenutnih informacija o pjesmi. ",
+        "notFound": "[info] [songinfo] @ %%USER%% Video je privatan ili nedostupan,biti će skipovan %%POS%% u redu!",
+        "coutryUnavaliable": "[info] [songinfo] @%%USER%% Ovaj videozapis se ne može reproducirati u ovoj zemlji, bit će skipovan. %%POS%% u redu!",
+        "embedDisabled": "[info] [songinfo] @%%USER%% Ovaj se videozapis može pregledati samo na youtube stranici, biti će skipovan. %%POS%% u redu!"
     },
     "clearchat": {
-        "clearAll": "[CLEARCHAT] @%%USER%% Brišem cijeli chat,pričekajte...",
-        "clearUser": "[CLEARCHAT] @%%USER%% Brisanje chata od %%TARGET%%, molimo pričekajte..."
+        "clearAll": "[mod] [clearchat] @%%USER%% Brišem cijeli chat, pričekajte...",
+        "clearUser": "[mod] [clearchat] @%%USER%% Brišem chata od %%TARGET%%, molimo pričekajte..."
     },
     "historycheck": {
-        "enabled": "[HISTORYCHECK] @%%USER%% provjera historije aktivirana!",
-        "disabled": "[HISTORYCHECK] @%%USER%% provjera historije deaktivirana!",
-        "songInHistory": "[HISTORYCHECK] @%%USER%% Pjesma u historiji (%%HPOS%%/%%HLEN%%), rang %%HMPLAY%% Vrijeme (biće %%HMUPLAY%% vrijeme od %%USER%%), posljednja %%TIME%% od %%LASTUSER%%"
+        "enabled": "[mod] [historycheck] @%%USER%% Provjera historije je aktivirana!",
+        "disabled": "[mod] [historycheck] @%%USER%% Provjera historije je deaktivirana!",
+        "songInHistory": "[historycheck] @%%USER%% Pjesma u historiji (%%HPOS%%/%%HLEN%%), rang %%HMPLAY%% Vrijeme (biće %%HMUPLAY%% vrijeme od %%USER%%), posljednja %%TIME%% od %%LASTUSER%%"
     },
     "afkremoval": {
-        "enabled": "[AFKREMOVAL] @%%USER%% afkremoval aktiviran!",
-        "disabled": "[AFKREMOVAL] @%%USER%% afkremoval deaktiviran!",
-	"warn1": "[AFKREMOVAL] @ %% USER %% Dosta vremena ste AFK,molimo pišite nešto u chat u narednih nekoliko minuta ili ću vas ukloniti s popisa čekanja. ",
-        "warn2": "[AFKREMOVAL] @ %% USER %% Zadnje upozorenje: Molimo pišite nešto u sljedećih nekoliko minuta ili ću vas ukloniti s liste čekanja.",
-        "warn2": "[AFKREMOVAL] @ %% USER %% Uklanja vas s popisa čekanja neaktivnosti. Nema potrebe plakati."
+        "enabled": "[mod] [afkremoval] @%%USER%% Afkremoval je aktiviran!",
+        "disabled": "[mod] [afkremoval] @%%USER%% Afkremoval je deaktiviran!",
+	"warn1": "[bot] [afkremoval] @ %% USER %% Dosta vremena ste AFK,molimo pišite nešto u chat u narednih nekoliko minuta ili ću vas ukloniti s popisa čekanja. ",
+        "warn2": "[bot] [afkremoval] @ %% USER %% Zadnje upozorenje: Molimo pišite nešto u sljedećih nekoliko minuta ili ću vas ukloniti s liste čekanja.",
+        "warn2": "[bot] [afkremoval] @ %% USER %% Uklanja vas s popisa čekanja neaktivnosti. Nema potrebe plakati."
     },
     "roullete": {
-	"lotteryWinner": "[ROULLETE] @%%USER%% pobijedili ste na automatskom ruletu i biti cete premješteni na poziciju 1.! @djs sljedeći će biti izabran za 1 sat! ",
-        "ppWinner": "[ROULLETE] @%%USER%% you were the lucky guy who won a PP heap of someone! Stay in wait to receive the prize!",
-        "noUsers": "[ROULLETE] @staff something wrong happened, I could not find lucky for the automatic draw ..."
+	"lotteryWinner": "[roulette] @%%USER%% pobijedili ste na automatskom ruletu i biti cete premješteni na poziciju 1.! @djs sljedeći će biti izabran za 1 sat! ",
+        "ppWinner": "[roulette] @%%USER%% you were the lucky guy who won a PP heap of someone! Stay in wait to receive the prize!",
+        "noUsers": "[mod] [roullete] @staff something wrong happened, I could not find lucky for the automatic draw ..."
     },
     "staff": {
-        "error": "[STAFF] @%%USER%% Pogreska osvjezavnja liste.",
-        "ok": "[STAFF] @%%USER%% Ažurirani popis, ukupno: %%LEN%%"
+        "error": "[mod] [staff] @%%USER%% Pogreska osvjezavnja liste.",
+        "ok": "[mod] [staff] @%%USER%% Ažurirani popis, ukupno: %%LEN%%"
     }
 }
