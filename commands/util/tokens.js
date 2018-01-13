@@ -82,13 +82,9 @@ var tokens = {
 	lastUsed: 0,
 	roleRequired: 'user',
 	exec: function(bot, chat, data) {
-		switch(data.cmd) {
-			var userTokens = validateTokens(user);
-				bot.sendChat(utils.replaceString(lang.tTokens.tokens, {user: chat.username, tokens: userTokens}), 30e3);
+				bot.sendChat(utils.replaceString(lang.tTokens.tokens, {user: chat.username, utokens: userTokens}), 30e3);
 				break;
 
-		}
 	}
 };
-
 module.exports = tokens;
