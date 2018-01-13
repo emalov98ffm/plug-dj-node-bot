@@ -1,7 +1,7 @@
 {
    "dc": {
       "on": true,
-      "timelimit": 30,
+      "timelimit": 20,
       "maxelap": 50,
       "best": true
    },
@@ -12,10 +12,10 @@
    "lockskip": 3,
    "links": {
       "rules": "https://hastebin.com/obubavojip.md",
-      "commands": ""
+      "commands": "https://github.com/ajdin1997/plug-dj-node-bot#commands"
    },
    "emotelimit": {
-      "limit": 10
+      "limit": 6
    },
    "medialimit": {
       "limit": 360,
