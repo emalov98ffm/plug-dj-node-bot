@@ -82,6 +82,7 @@ var tokens = {
 	lastUsed: 0,
 	roleRequired: 'user',
 	exec: function(bot, chat, data) {
+		var user = auxapi.users.getUserByID(chat.id);
                 var userTokens = validateTokens(user.username);
 				bot.sendChat(utils.replaceString(lang.tTokens.tokens, {user: chat.username, utokens: userTokens}), 30e3);
 
