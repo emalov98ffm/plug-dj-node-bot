@@ -10,7 +10,7 @@
     "ping" : {
         "ping": "[Ping] @%%USER%% pong!",
         "pong": "[Ping] @%%USER%% ping!",
-        "bot": "[Ping] @%%USER%% Sta hoces?"
+        "bot": "[bot] @%%USER%% Ja sam bot i vrsim male moderacije sobe, sve ostalo mozes mozes pitati admina ili kucati !explain (komanda)"
     },
     "fp" : {
         "movie": "[user] [movie] @%%USER%% Gledaj online filmove na: http://www.filmoviplex.pw/"
