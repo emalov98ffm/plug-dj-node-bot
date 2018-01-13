@@ -12,6 +12,9 @@
         "pong": "[Ping] @%%USER%% ping!",
         "bot": "[Ping] @%%USER%% Sta hoces?"
     },
+    "fp" : {
+        "movie": "[user] [movie] @%%USER%% Gledaj online filmove na: http://www.filmoviplex.pw/"
+    },
     "dc" : {
         "notDisc": "[PREBACIVANJE] @%%USER%% Ovaj korisnik se nije bio izlogovao!",
         "tooLong": "[PREBACIVANJE] @%%USER%% Ti si bio ulogovan pre (%%TIME%%) na poziciji %%POSITION%%!",
