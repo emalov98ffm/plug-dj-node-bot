@@ -1,8 +1,6 @@
 ﻿var auxapi = require(process.cwd() + '/auxapi');
 var lang = require(process.cwd() + '/lang.json');
 var utils = require(process.cwd() + '/utils/utils');
-var user = user.username;
-var userTokens = validateTokens(user);
 
          function spinOutcome(bet) {
             var winnings;
@@ -33,6 +31,7 @@ var userTokens = validateTokens(user);
 
      //Validate Tokens
         function validateTokens(user){
+	    var user = auxapi.users.getUserByID(chat.id);
             var tokens; 
             
             //Check for existing user tokens
@@ -83,6 +82,8 @@ var tokens = {
 	lastUsed: 0,
 	roleRequired: 'user',
 	exec: function(bot, chat, data) {
+		var user = auxapi.users.getUserByID(chat.id);
+                var userTokens = validateTokens(user);
 				bot.sendChat(utils.replaceString(lang.tTokens.tokens, {user: chat.username, utokens: userTokens}), 30e3);
 
 	}
