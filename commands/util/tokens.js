@@ -1,7 +1,8 @@
 ﻿var auxapi = require(process.cwd() + '/auxapi');
 var lang = require(process.cwd() + '/lang.json');
 var utils = require(process.cwd() + '/utils/utils');
-var user = auxapi.users.getUserByID(chat.id);
+var user = user.username;
+var userTokens = validateTokens(user);
 
          function spinOutcome(bet) {
             var winnings;
