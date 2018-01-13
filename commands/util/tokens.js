@@ -31,7 +31,6 @@ var utils = require(process.cwd() + '/utils/utils');
 
      //Validate Tokens
         function validateTokens(user){
-	    var user = auxapi.users.getUserByID(chat.id);
             var tokens; 
             
             //Check for existing user tokens
