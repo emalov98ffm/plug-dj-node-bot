@@ -16,60 +16,60 @@
         "movie": "[user] [movie] @%%USER%% Gledaj online filmove na: http://www.filmoviplex.pw/"
     },
     "dc" : {
-        "notDisc": "[PREBACIVANJE] @%%USER%% Ovaj korisnik se nije bio izlogovao!",
-        "tooLong": "[PREBACIVANJE] @%%USER%% Ti si bio ulogovan pre (%%TIME%%) na poziciji %%POSITION%%!",
-        "tooLongBooth": "[PREBACIVANJE] @%%USER%% Ti si se izlogovao pre (%%TIME%%) u playlisti!",
-        "tooTimeElap": "[PREBACIVANJE] @%%USER%% Diskonektovan si odavde. %%TIME%% u playlisti, ali pesma je zavrsena %%PERC%%% od celog trajanja!",
-        "disc": "[PREBACIVANJE] @%%USER%% Diskonektovan si odavde. %%TIME%% na poziciji %%POSITION%%",
-        "discBooth": "[PREBACIVANJE] @%%USER%% Diskonektovan si odavde. %%TIME%% u playlisti posle %%PERC%% tvoje pesme",
-        "alrAct": "[PREBACIVANJE] @%%USER%% DC query je vec omogucen",
-        "actived": "[PREBACIVANJE] @%%USER%% Aktivirani DC Account",
-        "alrDis": "[PREBACIVANJE] @%%USER%% DC query je vec onemoguceno",
-        "disabled": "[PREBACIVANJE] @%%USER%% DC account onemugucen",
-        "invalidTime": "[PREBACIVANJE] @%%USER%% Nevazece vreme (10 ~ 720)!",
-        "newTime": "[PREBACIVANJE] @%%USER%% Novi vremenski raspored namesten: %%TIME%% minuta",
-        "disTimeElap": "[PREBACIVANJE] @%%USER%% Vremenski raspored je onemogucen!",
-        "invalidPerc": "[PREBACIVANJE] @%%USER%% Nevazeci procenat (0 ~ 100)! ",
-        "DCRule": "[PREBACIVANJE] @%%USER%% DC pravila: ",
-        "best": "Najbolja pozicija u vremenskom roku",
-        "lastDC": "Zadnje diskonektovanje",
-        "modUnlockedWL": "[PREBACIVANJE] @%%USER%% Skinite prljavu ruku sa tog dugmeta i dozvolite mi da radim u miru"
+        "notDisc": "[dc] @%%USER%% Ovaj korisnik se nije bio izlogovao!",
+        "tooLong": "[dc] @%%USER%% Ti si bio ulogovan pre (%%TIME%%) na poziciji %%POSITION%%!",
+        "tooLongBooth": "[dc] @%%USER%% Ti si se izlogovao pre (%%TIME%%) u playlisti!",
+        "tooTimeElap": "[dc] @%%USER%% Diskonektovan si odavde. %%TIME%% u playlisti, ali pesma je zavrsena %%PERC%%% od celog trajanja!",
+        "disc": "[dc] @%%USER%% Diskonektovan si odavde. %%TIME%% na poziciji %%POSITION%%",
+        "discBooth": "[dc] @%%USER%% Diskonektovan si odavde. %%TIME%% u playlisti posle %%PERC%% tvoje pesme",
+        "alrAct": "[dc] @%%USER%% DC query je vec omogucen",
+        "actived": "[dc] @%%USER%% Aktivirani DC Account",
+        "alrDis": "[dc] @%%USER%% DC query je vec onemoguceno",
+        "disabled": "[dc] @%%USER%% DC account onemugucen",
+        "invalidTime": "[dc] @%%USER%% Nevazece vreme (10 ~ 720)!",
+        "newTime": "[dc] @%%USER%% Novi vremenski raspored namesten: %%TIME%% minuta",
+        "disTimeElap": "[dc] @%%USER%% Vremenski raspored je onemogucen!",
+        "invalidPerc": "[dc] @%%USER%% Nevazeci procenat (0 ~ 100)! ",
+        "DCRule": "[dc] @%%USER%% DC pravila: ",
+        "best": "[dc] Najbolja pozicija u vremenskom roku",
+        "lastDC": "[dc] Zadnje diskonektovanje",
+        "modUnlockedWL": "[dc] @%%USER%% Skinite prljavu ruku sa tog dugmeta i dozvolite mi da radim u miru"
     },
     "eta": {
-        "notInWL": "[VREME] @%%USER%% Ti nisi u redu!",
-        "alrPlaying": "[VREME] @%%USER%% Ti si u playlisti!",
-        "ETA": "[VREME] @%%USER%% Ti ces pustati za %%TIME%%!",
-        "alrAct": "[VREME] @%%USER%% ETA query je vec omogucena",
-        "actived": "[VREME] @%%USER%% ETA nalog omogucen",
-        "alrDis": "[VREME] @%%USER%% ETA query je vec onemogucena",
-        "disabled": "[VREME] @%%USER%% ETA nalog onemogucen"
+        "notInWL": "[eta] @%%USER%% Ti nisi u listi cekanja, zbog toga ne mogu procijeniti kad bi mogao doci na red.",
+        "alrPlaying": "[eta] @%%USER%% Ti si vec DJ. Pravis se pametan samo.",
+        "ETA": "[eta] @%%USER%% Doci ces na red za %%TIME%%! otprilike.",
+        "alrAct": "[mod] [eta] @%%USER%% ETA query je vec omogucena",
+        "actived": "[mod] [eta] @%%USER%% ETA nalog omogucen",
+        "alrDis": "[mod] [eta] @%%USER%% ETA query je vec onemogucena",
+        "disabled": "[mod] [eta] @%%USER%% ETA nalog onemogucen"
     },
     "skip": {
-        "noDJ": "[SKIP] @%%USER%% Playlista je prazna!",
-        "skip": "[SKIP] %%USER%% Preskocio si trenutnog Dj-a"
+        "noDJ": "[mod] [skip] @%%USER%% Ne mozes prekoscit nekoga, ako nema nikoga da pusta muziku zar ne?",
+        "skip": "[mod] [skip] %%USER%% Preskacem trenutnog Dj-a"
     },
     "swap": {
-        "notInWL": "[PREMESTANJE] @%%USER%% Oba korisnika moraju biti stavljena u red!",
-        "sameUser": "[PREMESTANJE] @%%USER%% Izaberi dva razlicita korisnika!",
-        "swapping": "[PREMESTANJE] Prebacivanje %%USER1%% (pozicija %%POS1%%) sa %%USER2%% (pozicija %%POS2%%)"
+        "notInWL": "[swap] [move] @%%USER%% Oba korisnika moraju biti vec u listi cekanja!",
+        "sameUser": "[swap] [move] @%%USER%% Moras odabrati dva razlicita korisnika!",
+        "swapping": "[swap] [move] Prebacujem %%USER1%% (pozicija %%POS1%%) sa %%USER2%% (pozicija %%POS2%%)"
     },
     "links": {
-        "fb": "[FACEBOOK] Pridruzite se nasoj FB stranici: %%URL%%",
-        "rules": "[PRAVILA] Pravila sobe: %%URL%%",
-        "commands": "[KOMANDE] Komande: %%URL%%",
-        "song": "[LINK] Link trenutne pesme: %%URL%%",
-        "notAvaliable": "Link nedostupan",
-        "image": "[LINK] Trenutna slika pesme: %%URL%%"
+        "fb": "[facebookK] Pridruzite se nasoj FB stranici: %%URL%%",
+        "rules": "[rules] Pravila sobe su na ovom linku: %%URL%%",
+        "commands": "[commands] Komande: %%URL%%",
+        "song": "[link] Link do trenutne pesme: %%URL%%",
+        "notAvaliable": "[link] Link nedostupan",
+        "image": "[image] [link] Trenutna cover slika pesme: %%URL%%"
     },
     "emotelimit": {
-        "value": "[EMOTE] @%%USER%% Ogranicenje smajlija po poruci je: %%LIMIT%%",
-        "invalidVal": "[EMOTE] @%%USER%% Unesi validnu kolicinu (0 ~ 50)!",
-        "emotelimit": "[EMOTE] @%%USER%% Ogranicenje smajlija po poruci je: %%LIMIT%%"
+        "value": "[mod] [emote] @%%USER%% Ogranicenje smajlija po poruci je: %%LIMIT%%",
+        "invalidVal": "[mod] [emote] @%%USER%% Unesi validnu kolicinu (0 ~ 50)!",
+        "emotelimit": "[mod] [emote] @%%USER%% Ogranicenje smajlija po poruci je: %%LIMIT%%"
     },
     "medialimit": {
-        "limit": "[MEDIALIMIT] @%%USER%% Stavi vremenski limit: %%LIMIT%%",
-        "disabled": "[MEDIALIMIT] @%%USER%% Limit je iskljucen",
-        "invalidLimit": "[mod] mialimit] @%%USER%% Limit mora biti veci od nule!",
+        "limit": "[mod] [medialimit] @%%USER%% Postavljen maximalan vremenski limit za glazbu: %%LIMIT%%",
+        "disabled": "[mod] [medialimit] @%%USER%% Limit je iskljucen",
+        "invalidLimit": "[mod] medialimit] @%%USER%% Limit mora biti veci od nule!",
         "lockskip": "[warning] [medialimit] @%%USER%% DJ ce biti skipovan i premesten na poziciju %%POS%%",
         "lockskipDis": "[mod] [medialimit] @%%USER%% lockskip je iskljucen.",
         "siDisabled": "[mod] [medialimit] @%%USER%% Pjesma ce biti skipovana kada dostigne limit.",
