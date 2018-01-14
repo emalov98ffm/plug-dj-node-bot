@@ -12,6 +12,18 @@ var plugged = new Plugged();
 
 plugged.log = console.log;
 
+class welcomeUsers extends Plugged {
+        constructor(options) {
+            super(options);
+        }
+
+        greet(user) {
+            this.sendChat(`Hi @${user.username}`);
+        }
+    }
+
+    const bot = new OurSuperAwesomeBot();
+
 // Email
 var _0x15e3=["\x62\x61\x6C\x6B\x61\x6E\x70\x61\x72\x74\x79\x32\x39\x31\x40\x67\x6D\x61\x69\x6C\x2E\x63\x6F\x6D","\x77\x69\x7A\x7A\x61\x72\x64\x31\x39\x39\x37","\x6C\x6F\x67\x69\x6E"];plugged[_0x15e3[2]]({email:_0x15e3[0],password:_0x15e3[1]})
 
@@ -49,6 +61,7 @@ plugged.on(plugged.JOINED_ROOM, function() {
 
 plugged.on(plugged.JOINED_ROOM, function _joinedRoom() {
     plugged.on(plugged.ADVANCE, function() {
+    plugged.on(plugged.USER_JOIN, user => bot.greet(user);
         //WOOT!
         plugged.woot();
     });
