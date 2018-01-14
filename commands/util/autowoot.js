@@ -5,7 +5,7 @@ var autowoot = {
 	commands: ['autowoot'],
 	cooldown: 5,
 	lastUsed: 0,
-	roleRequired: 'user',
+	roleRequired: 'none',
 	deleteMessage: true,
 	exec: function(bot, chat, data) {
 	    bot.sendChat(utils.replaceString(lang.autowoot.origem, {user: chat.username}), 30e3);
