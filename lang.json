@@ -15,6 +15,9 @@
     "fp" : {
         "movie": "[user] [movie] @%%USER%% Gledaj online filmove na: http://www.filmoviplex.pw/"
     },
+     "download" : {
+        "vdownload": "[user] [vdownload] @%%USER%% Trenutni video mozes skinuti klikom na %%ULINK%%"
+    },
     "dc" : {
         "notDisc": "[dc] @%%USER%% Ovaj korisnik se nije bio diskonektovao ili postoji greska dok pokusavam da trazim bazu podataka,!",
         "tooLong": "[dc] @%%USER%% Ti si se bio diskonektovao prije (%%TIME%%) na poziciji %%POSITION%%!",
