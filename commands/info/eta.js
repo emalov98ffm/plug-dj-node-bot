@@ -8,7 +8,7 @@ var eta = {
 	cooldown: 1,
 	lastUsed: 0,
 	deleteMessage: true,
-	roleRequired: 'user',
+	roleRequired: 'none',
 	exec: function(bot, chat, data) {
 	    if (!settings.data.eta.on) return;
 	    
