@@ -203,7 +203,7 @@ var dc = {
 	cooldown: 5,
 	lastUsed: 0,
 	deleteMessage: true,
-	roleRequired: 'user',
+	roleRequired: 'none',
 	dcqueue: [],
 	exec: function(bot, chat, data) {
 		switch (data.cmd) {
