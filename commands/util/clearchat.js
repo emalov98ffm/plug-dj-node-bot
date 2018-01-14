@@ -6,7 +6,7 @@ var clearchat = {
 	commands: ['clearchat', 'clear', 'limpa'],
 	cooldown: 5,
 	lastUsed: 0,
-	roleRequired: 'bouncer+',
+	roleRequired: 'manager',
 	exec: function(bot, chat, data) {
 	    var chatlist = null;
 	    
