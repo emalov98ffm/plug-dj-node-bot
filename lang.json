@@ -143,7 +143,7 @@
       "bot":"[bot] @%%USER%% Ja sam bot i vrsim male moderacije sobe, sve ostalo mozes mozes pitati admina ili kucati !explain (komanda)(Uskoro)"
    },
    "fp":{  
-      "movie":"[user] [movie] @%%USER%% Gledaj online filmove na: http://www.filmoviplex.pw/"
+      "movie":"[user] [movie] @%%USER%% Gledaj online filmove na: http://www.filmoviplex.pw/",
       "anime":"[user] [anime] @%%USER%% Gledaj Anime u HD kvalitetu bez reklama sa prevodom na: https://www.anime404.com/"
    },
    "autowoot":{  
