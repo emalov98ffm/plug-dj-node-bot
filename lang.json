@@ -1,275 +1,271 @@
-{
-       "truthdare" : {
-       "truths": [
-"Da li te iko ikada vidio potpuno golu/og. Ako da, ko?",
-"Sta je najgluplja stvar koju ste učinili pred nekome?",
-"Da li si ikada pišao/la u bazenu?",
-"Da li se ikad zaljubila/o u djevojku/decka svog prijatelja?",
-"Sta je najviše neugodna stvar koju si ikad učinio u svom životu?",
-"Koju stvar si uradio, a nisi zelio da ikad budes uhvacen u njoj?",
-"Tjo je bio tvoja prva simpatija, ili ko je trenutno?",
-"Koliko ste imali godina kada ste imali svoj prvi poljubac?",
-"Da li ste ikada prevarili decka / devojku?",
-"Ako možeš da odeš na sastanak s kim u sobi, ko bi to bio?",
-"Jeste li ikada lagali svoje najboljem prijatelju?",
-"Ako ste se zaglavili na pustom otoku, kojeg prijatelji bi zeljeli da bude sa vama?",
-"Koliko vremena je proslo od tvog zadnjeg tusiranja?",
-"Sta je to, a ne zelis niko ovdje da te pita? (Budite sigurni da to treba imati na umu za buduće runde!)",
-"Jesi li ikada lagao tokom igranja ovoga !truth? Šta je to i zašto?",
-"Da li vam se iko svidja u ovoj sobi kao decko/djevojka?",
-"Jeste li ikad ukrali nešto?",
-"Šta ti je najstrašnija noćna mora?",
-"Kakve pidžame nosiš u krevet?",
-"Koje je boje vaše donje rublje?",
-"Da nisi sad ovdje, sta bi radio/la?",
-"Koja je jedina stvar koju nikome nisi rekao?",
-"Šta želiš biti kad odrasteš?",
-"Za kakvu vrstu osobe zelis da se udas/ozenis?",
-"Želite li imati djecu? Koliko?",
-"Ako bi mogao da zamjenis mjesto u zivotu sa nekim, ko bi to bio i zasto?",
-"Ako biste mogli izmisliti nesto, šta bi to bilo?",
-"Ako ste znali da je svet dosao do kraja, šta bi ti?",
-"Bojiš li se smrti? I zašto da/ne?",
-"Sta je tvoj najveci strah?",
-"Sta se desilo na tvoj najgori dan u zivotu?",
-"Jeste li se ikad popeli na drvo?",
-"Šta bi uradio da si nevidljiv za jedan dan?",
-"Sta je tvoj poseban talenat?",
-"Šta bi ti sa milion dolara, ako bi ikada dobio na lutriji?",
-"Sta bi zelio promjeniti na sebi??",
-"Sta je najlosija stvar koju si ikad uradio?",
-"Vaš omiljeni dio tijela na ženi ili muškaracu je?",
-"Da li ste ikada vrisnuli nečije ime?",
-"Jesi li ikada gledao pornografiju?",
-"Da li ste ikada maštali o mami prijatelja, ili sestri od prijatelja?",
-"Sta je je najčudnije stvar koju si ikad jeo?",
-"Koja je zadnja laz koju si rekao?",
-"Kada si posljednji put uhvaćen u laži?",
-"Koju muziku slusas dok si sam/a?",
-"Da li bi napustio svoje najbolje prijatelje za 1 milion dolara?",
-"Da li bi počinio zločin, ako bi znao da nema načina da ćeš upasti u nevolju, i da niko nece nastradati?",
-"Kome u ovoj sobi najviše vjerujes?",
-"Sta je tvoj najveci strah u vezi. (Misli se na osobu sa kojom ste zajedno.)",
-"Sta je tvoja najcudnija navika.?",
-"Kako bi izgledao tvoj savrsen dan?",
-"Sta je tvoja omiljena hrana?",
-"Opisi svoj najgori izlazak? (Misli se na date sa nekom osobom.)",
-"Koje su tvoje 3 omiljenje boje i zasto?",
-"Vjerujes li u ljubav na prvi pogled? Objasni zasto ne ako je tvoj odgovor ne.",
-"Vjerujes li ikako u ljubav?",
-"Mozes li jezikom dodirnuti svoj nos?",
-"Opisi svoj najcudniji san koji si imao/la?",
-"Da li si ikad razmisljao da budes stripet ili striptizeta?",
-"Ko je najdosadnija osoba koju znas?",
-"Da li si i dalje nevin/a?",
-"Sta bi uradio kad bi tvoji roditelji otisli negdje na sedmicu dana i ostavili te samog u kuci?"
-        ],
-		 "dares":[  
-      "Posalji srce osobi koje je trenutno DJ.",
-      "Otici ces u neku drugu zajednicu gdje govore bos/srb/hrv jezik i napisat ces -da li je neko za vezu-",
-      "Pustit ces pjesmu koja ima izazovniji spot.",
-      "Moras nacrtat ces u paintu nesto za osobu koja se nalazi u ovoj sobi.",
-      "Moras da ispricas izazovniji vic sad.",
-      "Poslat ces -vtp- prvoj osobi koja je na lisit cekanja.",
-      "Moras izaci iz liste cekanja."
-   ],
-         "truth": "[truth] @%%USER%% : %%TRUTH%%.",
-		 "dare": "[dare] @%%USER%% : %%DARE%%."
-    },
-	
-	
-	"fortunes" : {
-        "fortunecookies": [
-	     "Tvoje cipele ce te nacini sretnim danas",
-             "Ne mozes voljeti zivot dok ne zivis zivot koji volis.",
-             "Djevojka ili decko o kojem toliko razmisljas misli isto o tebi.",
-             "San koji imas ce se ispuniti.",
-             "Nikad ne odustaj. Nisi propast ukoliko ne odustanes.",
-             "Postat ces veliki ukoliko vjerujes u sebe.",
-             "Ozenit ces osobu koju volis.",
-             "Veoma atraktivna osoba ima poruku za tebe.",
-             "To je sada i na ovom svijetu, mi moramo zivjeti.",
-             "Moras pokusati, ili mrziti sebe jer nisi pokusao.",
-             "Sam gradis svoju srecu.",
-             "Najvezi rizik je ne uzeti ga.",
-             "Ljubav moze trajati zauvijek, ukoliko to zelis.",
-             "Ozbiljna nesreca ce da te zaobidje.",
-             "Sada je vrijeme da probas nesto novo.",
-             "Ti si veoma telantovan na mnogo nacina.",
-             "A Stranac je prijateljs, sa kojim nisi jos razgovarao.",
-             "Putovat ces na mnoga egzotica mjesta u tvom zivotu.",
-             "Svi se slazu, ti si najbolji.",
-             "Ljubomora ne otvara vrata, nego ih zatvara.",
-             "Nikad ne odustaj, uvijek trazi razloge da nastavis.",
-             "Prestani zeliti, nego uradi.",
-             "Za uspijesno danas, prvo pogeldaj sebe.",
-             "Ako si sretan, onda si i uspijesan.",
-             "Prije engo pokusas usrecit ostale, pogledaj sta usrecuje tebe.",
-             "Ucis iz svojih gresaka, danas ces naucit mnogo toga,",
-             "Nemoguce je rijec samo koja se nalazi u rijecniku budala.",
-             "Uskoro ces prisustvovati cudu.",
-             "Ljubav je potrebna, kao hrana i skloniste.",
-             "Veoma ste voljena osoba, ne brini. :)",
-             "Ako nisi nikad strpljiv, nikad neces nista pravilno uraditi",
-             "Vi vjerujete u dobrotu covjecanstva",
-             "Imat ces dug i zdrav zivot.",
-             "Ti si osoba finog odgoja.",
-             "Pojednostavi, sto vise kazes, manje ljudi pamti.",
-             "Nista nije nemoguce za tebe.",
-             "Strpljenje je gorko, ali je plod je sladak.",
-             "Tvoja najdraza zelja ce se ostvariti.",
-             "Ako ne radis pravilno, onda nemoj nikako da radis.",
-             "Uskoro ces biti nagradjen od osobe koju veoma postujes.",
-             "Tvoj osmijeh donosi srecu svima koje upoznas.",
-             "Zelja je ono sto cini zivot dok sanjas ruzine latice.",
-             "Ljubav moze pretvorit kucicu u zlatnu palacu.",
-             "Poljubit ces svoju simpatiju ohhh lalahh",
-             "Ni jedna udaljenost nije velika, ako su dva srca vezana zajedno.",
-             "Pokusaj? NE! Da ili Ne, ne postoji pokusati.",
-             "Vrijeme je da pitas tu posebnu osobu na sastanak.",
-             "Za dobre stvari treba vremena."
-        
-       ],
-         "cookie": "[fortunecookie] @%%USER%% Tvoj sretni kolacic kaze: %%FORTUNE%%."
-    },
-	
-	"general" : {
-        "ghost": "@%%USER%% Ne vidim te u sobi! Probaj opet za par sekundi.",
-        "userNotFound": "@%%USER%% Korisnik nepostoji!",
-        "notLocated": "@%%USER%% Korisnik nije pronadjen!",
-        "insParams": "@%%USER%% Pogresno uneseni podatci! Pogledaj komande.",
-        "on": "Ukljuceno",
-        "off": "Iskljuceno"
-    },
-    "ping" : {
-        "ping": "[Ping] @%%USER%% pong!",
-        "pong": "[Ping] @%%USER%% ping!",
-        "bot": "[bot] @%%USER%% Ja sam bot i vrsim male moderacije sobe, sve ostalo mozes mozes pitati admina ili kucati !explain (komanda)"
-    },
-    "fp" : {
-        "movie": "[user] [movie] @%%USER%% Gledaj online filmove na: http://www.filmoviplex.pw/"
-    },
-     "download" : {
-        "vdownload": "[user] [vdownload] @%%USER%% Trenutni video mozes skinuti klikom na %%ULINK%%",
-	"mpdownload": "[user] [download] @%%USER%% Trenutnu pjesmu kao mp3 mozes skinuti klikom na %%ULINK%%"
-    },
-    "dc" : {
-        "notDisc": "[dc] @%%USER%% Ovaj korisnik se nije bio diskonektovao ili postoji greska dok pokusavam da trazim bazu podataka,!",
-        "tooLong": "[dc] @%%USER%% Ti si se bio diskonektovao prije (%%TIME%%) na poziciji %%POSITION%%!",
-        "tooLongBooth": "[dc] @%%USER%% Ti si se diskonektovao prije (%%TIME%%) u playlisti!",
-        "tooTimeElap": "[dc] @%%USER%% Diskonektovao si se odavde prije %%TIME%% , ali pesma je zavrsena %%PERC%%% od celog trajanja!",
-        "disc": "[dc] @%%USER%% Diskonektovao si se odavde prije %%TIME%% na poziciji %%POSITION%%",
-        "discBooth": "[dc] @%%USER%% Diskonektovan si odavde. %%TIME%% u playlisti posle %%PERC%% tvoje pesme",
-        "alrAct": "[dc] @%%USER%% DC query je vec omogucen",
-        "actived": "[dc] @%%USER%% Aktivirani DC Account",
-        "alrDis": "[dc] @%%USER%% DC query je vec onemoguceno",
-        "disabled": "[dc] @%%USER%% DC account onemugucen",
-        "invalidTime": "[dc] @%%USER%% Nevazece vreme (10 ~ 720)!",
-        "newTime": "[dc] @%%USER%% Novi vremenski raspored namesten: %%TIME%% minuta",
-        "disTimeElap": "[dc] @%%USER%% Vremenski raspored je onemogucen!",
-        "invalidPerc": "[dc] @%%USER%% Nevazeci procenat (0 ~ 100)! ",
-        "DCRule": "[dc] @%%USER%% DC pravila: ",
-        "best": "[dc] Najbolja pozicija u vremenskom roku",
-        "lastDC": "[dc] Zadnje diskonektovanje",
-        "modUnlockedWL": "[dc] @%%USER%% Skinite prljavu ruku sa tog dugmeta i dozvolite mi da radim u miru"
-    },
-    "eta": {
-        "notInWL": "[eta] @%%USER%% Ti nisi u listi cekanja, zbog toga ne mogu procijeniti kad bi mogao doci na red.",
-        "alrPlaying": "[eta] @%%USER%% Ti si vec DJ. Pravis se pametan samo.",
-        "ETA": "[eta] @%%USER%% Doci ces na red za %%TIME%%! otprilike.",
-        "alrAct": "[mod] [eta] @%%USER%% ETA query je vec omogucena",
-        "actived": "[mod] [eta] @%%USER%% ETA nalog omogucen",
-        "alrDis": "[mod] [eta] @%%USER%% ETA query je vec onemogucena",
-        "disabled": "[mod] [eta] @%%USER%% ETA nalog onemogucen"
-    },
-    "skip": {
-        "noDJ": "[mod] [skip] @%%USER%% Ne mozes prekoscit nekoga, ako nema nikoga da pusta muziku zar ne?",
-        "skip": "[mod] [skip] %%USER%% Preskacem trenutnog Dj-a"
-    },
-    "swap": {
-        "notInWL": "[swap] [move] @%%USER%% Oba korisnika moraju biti vec u listi cekanja!",
-        "sameUser": "[swap] [move] @%%USER%% Moras odabrati dva razlicita korisnika!",
-        "swapping": "[swap] [move] Prebacujem %%USER1%% (pozicija %%POS1%%) sa %%USER2%% (pozicija %%POS2%%)"
-    },
-    "links": {
-        "fb": "[facebookK] Pridruzite se nasoj FB stranici: %%URL%%",
-        "rules": "[rules] Pravila sobe su na ovom linku: %%URL%%",
-        "commands": "[commands] Komande: %%URL%%",
-        "song": "[link] Link do trenutne pesme: %%URL%%",
-        "notAvaliable": "[link] Link nedostupan",
-        "image": "[image] [link] Trenutna cover slika pesme: %%URL%%"
-    },
-    "emotelimit": {
-        "value": "[mod] [emote] @%%USER%% Ogranicenje smajlija po poruci je: %%LIMIT%%",
-        "invalidVal": "[mod] [emote] @%%USER%% Unesi validnu kolicinu (0 ~ 50)!",
-        "emotelimit": "[mod] [emote] @%%USER%% Ogranicenje smajlija po poruci je: %%LIMIT%%"
-    },
-    "medialimit": {
-        "limit": "[mod] [medialimit] @%%USER%% Postavljen maximalan vremenski limit za glazbu: %%LIMIT%%",
-        "disabled": "[mod] [medialimit] @%%USER%% Limit je iskljucen",
-        "invalidLimit": "[mod] medialimit] @%%USER%% Limit mora biti veci od nule!",
-        "lockskip": "[warning] [medialimit] @%%USER%% DJ ce biti skipovan i premesten na poziciju %%POS%%",
-        "lockskipDis": "[mod] [medialimit] @%%USER%% lockskip je iskljucen.",
-        "siDisabled": "[mod] [medialimit] @%%USER%% Pjesma ce biti skipovana kada dostigne limit.",
-        "siEnabled": "[mod] [medialimit] @%%USER%% Pjesma ce biti skipovana odma ako predje definisani limit.",
-        "skip": "[warning] [medialimit] @%%USER%% Tvoja pjesma je presla maximalnu duzinu od %%TIME%% i bice preskocena!",
-        "skipAfterLimit": "[warning] [medialimit] @%%USER%% Tvoja pjesma je presla maximalnu duzinu od %%TIME%% i bice skipovana poslije tog vremena!"
-    },
-    "bouncerplus": {
-        "actived": "bouncer+] @%%USER%% Bouncer+ je aktiviran!",
-        "disactived": "[bouncer+] @%%USER%% Bouncer+ je deaktiviran!!"
-    },
-    "autoskip": {
-        "status": "[info] [autoskip] @%%USER%% autoskip: %%ON%%, Vreme posle pjesme: %%TIME%%",
-        "enabled": "[autoskip] @%%USER%% Autoskip aktiviran!",
-        "disabled": "[autoskip] @%%USER%% Autoskip deaktiviran!",
-        "time": "[warning] [autoskip] @%%USER%% DJ ce biti skipovan posle %%TIME%% sekundi!"
-    },
-    "lockskip": {
-        "noDJ": "[lockskip] @%%USER%% Nema DJ-a za preskakanje!",
-        "skip": "[lockskip] %%USER%% Preskocen je trenutni DJ i premesten na %%POS%%"
-    },
-    "songstats": {
-        "enabled": "[info] @%%USER%% Songstats aktiviran!",
-        "disabled": "[songstats] @%%USER%% Songstats deaktiviran!",
-        "stats": "[info] @%%USER%% Pjesma: %%AUTHOR%% - %%TITLE%% (%%WOOT%% :+1: %%GRAB%% :blue_heart: %%MEH%% :-1: )"
-    },
-    "songinfo": {
-        "enabled": "[mod] [songinfo] @%%USER%% Songinfo aktiviran!",
-        "disabled": "[mod] [songinfo] @%%USER%% Songinfo deaktiviran!",
-        "notLoaded": "[stats] [songinfo] @%%USER%% Nema informacija o trenutnoj stavki.",
-        "statsYT": "[stats] [songinfo] %%USER%% dodiruje : %%NAME%% ( :oci: %%VIEWS%% , :+1: %%LIKE%%, :-1: %%DISLIKE%%, Komentari: %%COMMENTS%%, dužina: %%DUR%%), Uploudovano: %%UPLOADED%%)",
-        "statsSC": "[stats] [songinfo] %%USER%% pušta: %%NAME%% (Reprodukcija: %%PLAY%%, :zvijezda:: %%STARS%%, žanr: %%GENRE%%, skidanja: %%DL%%, uploudovano: %%UPLOADED%%, dužina: %%DUR%%)",
-	"shorterDuration": "[warning] [songinfo] @%%USER%% Pjesma koja je puštena traje manje od orginala (%%PLUGTIME%%, %%SOURCETIME%%).Kao posljedica toga, neće se reproducirati u cijelosti. ",
-        "longerDuration": "[warning] [songinfo] @%%USER%% Pjesma koja je puštena traje duže od orginala (%%PLUGTIME%%, %%SOURCETIME%%), kao rezultat toga, preskočit će se nakon stvarnog trajanja." ,
-        "infoFailed": "[info] [songinfo] Nemam trenutnih informacija o pjesmi. ",
-        "notFound": "[info] [songinfo] @%%USER%% Video je privatan ili nedostupan,biti će skipovan. Prebacujem te na %%POS%% mjesto u wl!",
-        "coutryUnavaliable": "[info] [songinfo] @%%USER%% Ovaj videozapis se ne može reproducirati u ovoj zemlji, bit će skipovan. Prebacujem te na %%POS%% mjesto u wl!",
-        "embedDisabled": "[info] [songinfo] @%%USER%% Ovaj se videozapis može pregledati samo na youtube stranici, biti će skipovan. Prebacujem te na %%POS%% mjesto u wl!"
-    },
-    "clearchat": {
-        "clearAll": "[mod] [clearchat] @%%USER%% Brišem cijeli chat, pričekajte...",
-        "clearUser": "[mod] [clearchat] @%%USER%% Brišem chata od %%TARGET%%, molimo pričekajte..."
-    },
-    "historycheck": {
-        "enabled": "[mod] [historycheck] @%%USER%% Provjera historije je aktivirana!",
-        "disabled": "[mod] [historycheck] @%%USER%% Provjera historije je deaktivirana!",
-        "songInHistory": "[historycheck] @%%USER%% Pjesma u historiji (%%HPOS%%/%%HLEN%%), rang %%HMPLAY%% Vrijeme (biće %%HMUPLAY%% vrijeme od %%USER%%), posljednja %%TIME%% od %%LASTUSER%%"
-    },
-    "afkremoval": {
-        "enabled": "[mod] [afkremoval] @%%USER%% Afkremoval je aktiviran!",
-        "disabled": "[mod] [afkremoval] @%%USER%% Afkremoval je deaktiviran!",
-	"warn1": "[bot] [afkremoval] @%%USER%% Dosta vremena ste AFK,molimo pišite nešto u chat u narednih nekoliko minuta ili ću vas ukloniti s popisa čekanja. ",
-        "warn2": "[bot] [afkremoval] @%%USER%% Zadnje upozorenje: Molimo pišite nešto u sljedećih nekoliko minuta ili ću vas ukloniti s liste čekanja.",
-        "warn2": "[bot] [afkremoval] @%%USER%% Uklanja vas s popisa čekanja neaktivnosti. Nema potrebe plakati."
-    },
-    "roullete": {
-	"lotteryWinner": "[roulette] @%%USER%% pobijedili ste na automatskom ruletu i biti cete premješteni na poziciju 1.! @djs sljedeći će biti izabran za 1 sat! ",
-        "ppWinner": "[roulette] @%%USER%% you were the lucky guy who won a PP heap of someone! Stay in wait to receive the prize!",
-        "noUsers": "[mod] [roullete] @staff something wrong happened, I could not find lucky for the automatic draw ..."
-    },
-    "staff": {
-        "error": "[mod] [staff] @%%USER%% Pogreska osvjezavnja liste.",
-        "ok": "[mod] [staff] @%%USER%% Ažurirani popis, ukupno: %%LEN%%"
-    }
+{  
+   "truthdare":{  
+      "truths":[  
+         "Da li te iko ikada vidio potpuno golu/og. Ako da, ko?",
+         "Sta je najgluplja stvar koju ste učinili pred nekome?",
+         "Da li si ikada pišao/la u bazenu?",
+         "Da li se ikad zaljubila/o u djevojku/decka svog prijatelja?",
+         "Sta je najviše neugodna stvar koju si ikad učinio u svom životu?",
+         "Koju stvar si uradio, a nisi zelio da ikad budes uhvacen u njoj?",
+         "Tjo je bio tvoja prva simpatija, ili ko je trenutno?",
+         "Koliko ste imali godina kada ste imali svoj prvi poljubac?",
+         "Da li ste ikada prevarili decka / devojku?",
+         "Ako možeš da odeš na sastanak s kim u sobi, ko bi to bio?",
+         "Jeste li ikada lagali svoje najboljem prijatelju?",
+         "Ako ste se zaglavili na pustom otoku, kojeg prijatelji bi zeljeli da bude sa vama?",
+         "Koliko vremena je proslo od tvog zadnjeg tusiranja?",
+         "Sta je to, a ne zelis niko ovdje da te pita? (Budite sigurni da to treba imati na umu za buduće runde!)",
+         "Jesi li ikada lagao tokom igranja ovoga !truth? Šta je to i zašto?",
+         "Da li vam se iko svidja u ovoj sobi kao decko/djevojka?",
+         "Jeste li ikad ukrali nešto?",
+         "Šta ti je najstrašnija noćna mora?",
+         "Kakve pidžame nosiš u krevet?",
+         "Koje je boje vaše donje rublje?",
+         "Da nisi sad ovdje, sta bi radio/la?",
+         "Koja je jedina stvar koju nikome nisi rekao?",
+         "Šta želiš biti kad odrasteš?",
+         "Za kakvu vrstu osobe zelis da se udas/ozenis?",
+         "Želite li imati djecu? Koliko?",
+         "Ako bi mogao da zamjenis mjesto u zivotu sa nekim, ko bi to bio i zasto?",
+         "Ako biste mogli izmisliti nesto, šta bi to bilo?",
+         "Ako ste znali da je svet dosao do kraja, šta bi ti?",
+         "Bojiš li se smrti? I zašto da/ne?",
+         "Sta je tvoj najveci strah?",
+         "Sta se desilo na tvoj najgori dan u zivotu?",
+         "Jeste li se ikad popeli na drvo?",
+         "Šta bi uradio da si nevidljiv za jedan dan?",
+         "Sta je tvoj poseban talenat?",
+         "Šta bi ti sa milion dolara, ako bi ikada dobio na lutriji?",
+         "Sta bi zelio promjeniti na sebi??",
+         "Sta je najlosija stvar koju si ikad uradio?",
+         "Vaš omiljeni dio tijela na ženi ili muškaracu je?",
+         "Da li ste ikada vrisnuli nečije ime?",
+         "Jesi li ikada gledao pornografiju?",
+         "Da li ste ikada maštali o mami prijatelja, ili sestri od prijatelja?",
+         "Sta je je najčudnije stvar koju si ikad jeo?",
+         "Koja je zadnja laz koju si rekao?",
+         "Kada si posljednji put uhvaćen u laži?",
+         "Koju muziku slusas dok si sam/a?",
+         "Da li bi napustio svoje najbolje prijatelje za 1 milion dolara?",
+         "Da li bi počinio zločin, ako bi znao da nema načina da ćeš upasti u nevolju, i da niko nece nastradati?",
+         "Kome u ovoj sobi najviše vjerujes?",
+         "Sta je tvoj najveci strah u vezi. (Misli se na osobu sa kojom ste zajedno.)",
+         "Sta je tvoja najcudnija navika.?",
+         "Kako bi izgledao tvoj savrsen dan?",
+         "Sta je tvoja omiljena hrana?",
+         "Opisi svoj najgori izlazak? (Misli se na date sa nekom osobom.)",
+         "Koje su tvoje 3 omiljenje boje i zasto?",
+         "Vjerujes li u ljubav na prvi pogled? Objasni zasto ne ako je tvoj odgovor ne.",
+         "Vjerujes li ikako u ljubav?",
+         "Mozes li jezikom dodirnuti svoj nos?",
+         "Opisi svoj najcudniji san koji si imao/la?",
+         "Da li si ikad razmisljao da budes stripet ili striptizeta?",
+         "Ko je najdosadnija osoba koju znas?",
+         "Da li si i dalje nevin/a?",
+         "Sta bi uradio kad bi tvoji roditelji otisli negdje na sedmicu dana i ostavili te samog u kuci?"
+      ],
+      "dares":[  
+         "Posalji srce osobi koje je trenutno DJ.",
+         "Otici ces u neku drugu zajednicu gdje govore bos/srb/hrv jezik i napisat ces -da li je neko za vezu-",
+         "Pustit ces pjesmu koja ima izazovniji spot.",
+         "Moras nacrtat ces u paintu nesto za osobu koja se nalazi u ovoj sobi.",
+         "Moras da ispricas izazovniji vic sad.",
+         "Poslat ces -vtp- prvoj osobi koja je na lisit cekanja.",
+         "Moras izaci iz liste cekanja."
+      ],
+      "truth":"[truth] @%%USER%% : %%TRUTH%%.",
+      "dare":"[dare] @%%USER%% : %%DARE%%."
+   },
+   "fortunes":{  
+      "fortunecookies":[  
+         "Tvoje cipele ce te nacini sretnim danas",
+         "Ne mozes voljeti zivot dok ne zivis zivot koji volis.",
+         "Djevojka ili decko o kojem toliko razmisljas misli isto o tebi.",
+         "San koji imas ce se ispuniti.",
+         "Nikad ne odustaj. Nisi propast ukoliko ne odustanes.",
+         "Postat ces veliki ukoliko vjerujes u sebe.",
+         "Ozenit ces osobu koju volis.",
+         "Veoma atraktivna osoba ima poruku za tebe.",
+         "To je sada i na ovom svijetu, mi moramo zivjeti.",
+         "Moras pokusati, ili mrziti sebe jer nisi pokusao.",
+         "Sam gradis svoju srecu.",
+         "Najvezi rizik je ne uzeti ga.",
+         "Ljubav moze trajati zauvijek, ukoliko to zelis.",
+         "Ozbiljna nesreca ce da te zaobidje.",
+         "Sada je vrijeme da probas nesto novo.",
+         "Ti si veoma telantovan na mnogo nacina.",
+         "A Stranac je prijateljs, sa kojim nisi jos razgovarao.",
+         "Putovat ces na mnoga egzotica mjesta u tvom zivotu.",
+         "Svi se slazu, ti si najbolji.",
+         "Ljubomora ne otvara vrata, nego ih zatvara.",
+         "Nikad ne odustaj, uvijek trazi razloge da nastavis.",
+         "Prestani zeliti, nego uradi.",
+         "Za uspijesno danas, prvo pogeldaj sebe.",
+         "Ako si sretan, onda si i uspijesan.",
+         "Prije engo pokusas usrecit ostale, pogledaj sta usrecuje tebe.",
+         "Ucis iz svojih gresaka, danas ces naucit mnogo toga,",
+         "Nemoguce je rijec samo koja se nalazi u rijecniku budala.",
+         "Uskoro ces prisustvovati cudu.",
+         "Ljubav je potrebna, kao hrana i skloniste.",
+         "Veoma ste voljena osoba, ne brini. :)",
+         "Ako nisi nikad strpljiv, nikad neces nista pravilno uraditi",
+         "Vi vjerujete u dobrotu covjecanstva",
+         "Imat ces dug i zdrav zivot.",
+         "Ti si osoba finog odgoja.",
+         "Pojednostavi, sto vise kazes, manje ljudi pamti.",
+         "Nista nije nemoguce za tebe.",
+         "Strpljenje je gorko, ali je plod je sladak.",
+         "Tvoja najdraza zelja ce se ostvariti.",
+         "Ako ne radis pravilno, onda nemoj nikako da radis.",
+         "Uskoro ces biti nagradjen od osobe koju veoma postujes.",
+         "Tvoj osmijeh donosi srecu svima koje upoznas.",
+         "Zelja je ono sto cini zivot dok sanjas ruzine latice.",
+         "Ljubav moze pretvorit kucicu u zlatnu palacu.",
+         "Poljubit ces svoju simpatiju ohhh lalahh",
+         "Ni jedna udaljenost nije velika, ako su dva srca vezana zajedno.",
+         "Pokusaj? NE! Da ili Ne, ne postoji pokusati.",
+         "Vrijeme je da pitas tu posebnu osobu na sastanak.",
+         "Za dobre stvari treba vremena."
+      ],
+      "cookie":"[fortunecookie] @%%USER%% Tvoj sretni kolacic kaze: %%FORTUNE%%."
+   },
+   "general":{  
+      "ghost":"@%%USER%% Ne vidim te u sobi! Probaj opet za par sekundi.",
+      "userNotFound":"@%%USER%% Korisnik nepostoji!",
+      "notLocated":"@%%USER%% Korisnik nije pronadjen!",
+      "insParams":"@%%USER%% Pogresno uneseni podatci! Pogledaj komande.",
+      "on":"Ukljuceno",
+      "off":"Iskljuceno"
+   },
+   "ping":{  
+      "ping":"[Ping] @%%USER%% pong!",
+      "pong":"[Ping] @%%USER%% ping!",
+      "bot":"[bot] @%%USER%% Ja sam bot i vrsim male moderacije sobe, sve ostalo mozes mozes pitati admina ili kucati !explain (komanda)"
+   },
+   "fp":{  
+      "movie":"[user] [movie] @%%USER%% Gledaj online filmove na: http://www.filmoviplex.pw/"
+   },
+   "download":{  
+      "vdownload":"[user] [vdownload] @%%USER%% Trenutni video mozes skinuti klikom na %%ULINK%%",
+      "mpdownload":"[user] [download] @%%USER%% Trenutnu pjesmu kao mp3 mozes skinuti klikom na %%ULINK%%"
+   },
+   "dc":{  
+      "notDisc":"[dc] @%%USER%% Ovaj korisnik se nije bio diskonektovao ili postoji greska dok pokusavam da trazim bazu podataka,!",
+      "tooLong":"[dc] @%%USER%% Ti si se bio diskonektovao prije (%%TIME%%) na poziciji %%POSITION%%!",
+      "tooLongBooth":"[dc] @%%USER%% Ti si se diskonektovao prije (%%TIME%%) u playlisti!",
+      "tooTimeElap":"[dc] @%%USER%% Diskonektovao si se odavde prije %%TIME%% , ali pesma je zavrsena %%PERC%%% od celog trajanja!",
+      "disc":"[dc] @%%USER%% Diskonektovao si se odavde prije %%TIME%% na poziciji %%POSITION%%",
+      "discBooth":"[dc] @%%USER%% Diskonektovan si odavde. %%TIME%% u playlisti posle %%PERC%% tvoje pesme",
+      "alrAct":"[dc] @%%USER%% DC query je vec omogucen",
+      "actived":"[dc] @%%USER%% Aktivirani DC Account",
+      "alrDis":"[dc] @%%USER%% DC query je vec onemoguceno",
+      "disabled":"[dc] @%%USER%% DC account onemugucen",
+      "invalidTime":"[dc] @%%USER%% Nevazece vreme (10 ~ 720)!",
+      "newTime":"[dc] @%%USER%% Novi vremenski raspored namesten: %%TIME%% minuta",
+      "disTimeElap":"[dc] @%%USER%% Vremenski raspored je onemogucen!",
+      "invalidPerc":"[dc] @%%USER%% Nevazeci procenat (0 ~ 100)! ",
+      "DCRule":"[dc] @%%USER%% DC pravila: ",
+      "best":"[dc] Najbolja pozicija u vremenskom roku",
+      "lastDC":"[dc] Zadnje diskonektovanje",
+      "modUnlockedWL":"[dc] @%%USER%% Skinite prljavu ruku sa tog dugmeta i dozvolite mi da radim u miru"
+   },
+   "eta":{  
+      "notInWL":"[eta] @%%USER%% Ti nisi u listi cekanja, zbog toga ne mogu procijeniti kad bi mogao doci na red.",
+      "alrPlaying":"[eta] @%%USER%% Ti si vec DJ. Pravis se pametan samo.",
+      "ETA":"[eta] @%%USER%% Doci ces na red za %%TIME%%! otprilike.",
+      "alrAct":"[mod] [eta] @%%USER%% ETA query je vec omogucena",
+      "actived":"[mod] [eta] @%%USER%% ETA nalog omogucen",
+      "alrDis":"[mod] [eta] @%%USER%% ETA query je vec onemogucena",
+      "disabled":"[mod] [eta] @%%USER%% ETA nalog onemogucen"
+   },
+   "skip":{  
+      "noDJ":"[mod] [skip] @%%USER%% Ne mozes prekoscit nekoga, ako nema nikoga da pusta muziku zar ne?",
+      "skip":"[mod] [skip] %%USER%% Preskacem trenutnog Dj-a"
+   },
+   "swap":{  
+      "notInWL":"[swap] [move] @%%USER%% Oba korisnika moraju biti vec u listi cekanja!",
+      "sameUser":"[swap] [move] @%%USER%% Moras odabrati dva razlicita korisnika!",
+      "swapping":"[swap] [move] Prebacujem %%USER1%% (pozicija %%POS1%%) sa %%USER2%% (pozicija %%POS2%%)"
+   },
+   "links":{  
+      "fb":"[facebookK] Pridruzite se nasoj FB stranici: %%URL%%",
+      "rules":"[rules] Pravila sobe su na ovom linku: %%URL%%",
+      "commands":"[commands] Komande: %%URL%%",
+      "song":"[link] Link do trenutne pesme: %%URL%%",
+      "notAvaliable":"[link] Link nedostupan",
+      "image":"[image] [link] Trenutna cover slika pesme: %%URL%%"
+   },
+   "emotelimit":{  
+      "value":"[mod] [emote] @%%USER%% Ogranicenje smajlija po poruci je: %%LIMIT%%",
+      "invalidVal":"[mod] [emote] @%%USER%% Unesi validnu kolicinu (0 ~ 50)!",
+      "emotelimit":"[mod] [emote] @%%USER%% Ogranicenje smajlija po poruci je: %%LIMIT%%"
+   },
+   "medialimit":{  
+      "limit":"[mod] [medialimit] @%%USER%% Postavljen maximalan vremenski limit za glazbu: %%LIMIT%%",
+      "disabled":"[mod] [medialimit] @%%USER%% Limit je iskljucen",
+      "invalidLimit":"[mod] medialimit] @%%USER%% Limit mora biti veci od nule!",
+      "lockskip":"[warning] [medialimit] @%%USER%% DJ ce biti skipovan i premesten na poziciju %%POS%%",
+      "lockskipDis":"[mod] [medialimit] @%%USER%% lockskip je iskljucen.",
+      "siDisabled":"[mod] [medialimit] @%%USER%% Pjesma ce biti skipovana kada dostigne limit.",
+      "siEnabled":"[mod] [medialimit] @%%USER%% Pjesma ce biti skipovana odma ako predje definisani limit.",
+      "skip":"[warning] [medialimit] @%%USER%% Tvoja pjesma je presla maximalnu duzinu od %%TIME%% i bice preskocena!",
+      "skipAfterLimit":"[warning] [medialimit] @%%USER%% Tvoja pjesma je presla maximalnu duzinu od %%TIME%% i bice skipovana poslije tog vremena!"
+   },
+   "bouncerplus":{  
+      "actived":"bouncer+] @%%USER%% Bouncer+ je aktiviran!",
+      "disactived":"[bouncer+] @%%USER%% Bouncer+ je deaktiviran!!"
+   },
+   "autoskip":{  
+      "status":"[info] [autoskip] @%%USER%% autoskip: %%ON%%, Vreme posle pjesme: %%TIME%%",
+      "enabled":"[autoskip] @%%USER%% Autoskip aktiviran!",
+      "disabled":"[autoskip] @%%USER%% Autoskip deaktiviran!",
+      "time":"[warning] [autoskip] @%%USER%% DJ ce biti skipovan posle %%TIME%% sekundi!"
+   },
+   "lockskip":{  
+      "noDJ":"[lockskip] @%%USER%% Nema DJ-a za preskakanje!",
+      "skip":"[lockskip] %%USER%% Preskocen je trenutni DJ i premesten na %%POS%%"
+   },
+   "songstats":{  
+      "enabled":"[info] @%%USER%% Songstats aktiviran!",
+      "disabled":"[songstats] @%%USER%% Songstats deaktiviran!",
+      "stats":"[info] @%%USER%% Pjesma: %%AUTHOR%% - %%TITLE%% (%%WOOT%% :+1: %%GRAB%% :blue_heart: %%MEH%% :-1: )"
+   },
+   "songinfo":{  
+      "enabled":"[mod] [songinfo] @%%USER%% Songinfo aktiviran!",
+      "disabled":"[mod] [songinfo] @%%USER%% Songinfo deaktiviran!",
+      "notLoaded":"[stats] [songinfo] @%%USER%% Nema informacija o trenutnoj stavki.",
+      "statsYT":"[stats] [songinfo] %%USER%% dodiruje : %%NAME%% ( :oci: %%VIEWS%% , :+1: %%LIKE%%, :-1: %%DISLIKE%%, Komentari: %%COMMENTS%%, dužina: %%DUR%%), Uploudovano: %%UPLOADED%%)",
+      "statsSC":"[stats] [songinfo] %%USER%% pušta: %%NAME%% (Reprodukcija: %%PLAY%%, :zvijezda:: %%STARS%%, žanr: %%GENRE%%, skidanja: %%DL%%, uploudovano: %%UPLOADED%%, dužina: %%DUR%%)",
+      "shorterDuration":"[warning] [songinfo] @%%USER%% Pjesma koja je puštena traje manje od orginala (%%PLUGTIME%%, %%SOURCETIME%%).Kao posljedica toga, neće se reproducirati u cijelosti. ",
+      "longerDuration":"[warning] [songinfo] @%%USER%% Pjesma koja je puštena traje duže od orginala (%%PLUGTIME%%, %%SOURCETIME%%), kao rezultat toga, preskočit će se nakon stvarnog trajanja.",
+      "infoFailed":"[info] [songinfo] Nemam trenutnih informacija o pjesmi. ",
+      "notFound":"[info] [songinfo] @%%USER%% Video je privatan ili nedostupan,biti će skipovan. Prebacujem te na %%POS%% mjesto u wl!",
+      "coutryUnavaliable":"[info] [songinfo] @%%USER%% Ovaj videozapis se ne može reproducirati u ovoj zemlji, bit će skipovan. Prebacujem te na %%POS%% mjesto u wl!",
+      "embedDisabled":"[info] [songinfo] @%%USER%% Ovaj se videozapis može pregledati samo na youtube stranici, biti će skipovan. Prebacujem te na %%POS%% mjesto u wl!"
+   },
+   "clearchat":{  
+      "clearAll":"[mod] [clearchat] @%%USER%% Brišem cijeli chat, pričekajte...",
+      "clearUser":"[mod] [clearchat] @%%USER%% Brišem chata od %%TARGET%%, molimo pričekajte..."
+   },
+   "historycheck":{  
+      "enabled":"[mod] [historycheck] @%%USER%% Provjera historije je aktivirana!",
+      "disabled":"[mod] [historycheck] @%%USER%% Provjera historije je deaktivirana!",
+      "songInHistory":"[historycheck] @%%USER%% Pjesma u historiji (%%HPOS%%/%%HLEN%%), rang %%HMPLAY%% Vrijeme (biće %%HMUPLAY%% vrijeme od %%USER%%), posljednja %%TIME%% od %%LASTUSER%%"
+   },
+   "afkremoval":{  
+      "enabled":"[mod] [afkremoval] @%%USER%% Afkremoval je aktiviran!",
+      "disabled":"[mod] [afkremoval] @%%USER%% Afkremoval je deaktiviran!",
+      "warn1":"[bot] [afkremoval] @%%USER%% Dosta vremena ste AFK,molimo pišite nešto u chat u narednih nekoliko minuta ili ću vas ukloniti s popisa čekanja. ",
+      "warn2":"[bot] [afkremoval] @%%USER%% Zadnje upozorenje: Molimo pišite nešto u sljedećih nekoliko minuta ili ću vas ukloniti s liste čekanja.",
+      "warn2":"[bot] [afkremoval] @%%USER%% Uklanja vas s popisa čekanja neaktivnosti. Nema potrebe plakati."
+   },
+   "roullete":{  
+      "lotteryWinner":"[roulette] @%%USER%% pobijedili ste na automatskom ruletu i biti cete premješteni na poziciju 1.! @djs sljedeći će biti izabran za 1 sat! ",
+      "ppWinner":"[roulette] @%%USER%% you were the lucky guy who won a PP heap of someone! Stay in wait to receive the prize!",
+      "noUsers":"[mod] [roullete] @staff something wrong happened, I could not find lucky for the automatic draw ..."
+   },
+   "staff":{  
+      "error":"[mod] [staff] @%%USER%% Pogreska osvjezavnja liste.",
+      "ok":"[mod] [staff] @%%USER%% Ažurirani popis, ukupno: %%LEN%%"
+   }
 }
