@@ -52,7 +52,7 @@ plugged.on(plugged.JOINED_ROOM, function _joinedRoom() {
 });
 
 plugged.on(plugged.USER_JOIN, function(user) {
-    plugged.sendChat("Dobrodosao/la " + user.username);
+    plugged.sendChat("Dobrodosao/la @" + user.username);
 });
 /*
 plugged.on(plugged.CHAT_DELETE, function(data) {
