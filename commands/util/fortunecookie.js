@@ -6,11 +6,11 @@ var fortunecookie = {
 	cooldown: 5,
 	lastUsed: 0,
 	roleRequired: 'user',
-	exec: function(bot, chat, data) {
-		getFcookie: function (chat) {
+	getFcookie: function (chat) {
                     var c = Math.floor(Math.random() * lang.fortunes.fortunecookies.length);
                     return lang.fortunes.fortunecookies[c];
                 },
+	exec: function(bot, chat, data) {
 	    bot.sendChat(utils.replaceString(lang.fortunes.cookie, {user: chat.username, fortune: this.getFcookie()}), 30e3);
 	}
 };
