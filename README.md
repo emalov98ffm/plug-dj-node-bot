@@ -19,7 +19,7 @@ Usage
 -----------------
 Commands
 ---
-
+- Autowoot
 - Truth & Dare
 - Fortunecookie
 - Vdownload
