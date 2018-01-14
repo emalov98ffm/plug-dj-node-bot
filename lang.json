@@ -145,6 +145,9 @@
    "fp":{  
       "movie":"[user] [movie] @%%USER%% Gledaj online filmove na: http://www.filmoviplex.pw/"
    },
+   "autowoot":{  
+      "origem":"[autowoot] @%%USER%% Preporucujemo da koristite Origem za autowoot: https://origemwoot.github.io/"
+   },
    "download":{  
       "vdownload":"[user] [vdownload] @%%USER%% Trenutni video mozes skinuti klikom na %%ULINK%%",
       "mpdownload":"[user] [download] @%%USER%% Trenutnu pjesmu kao mp3 mozes skinuti klikom na %%ULINK%%"
