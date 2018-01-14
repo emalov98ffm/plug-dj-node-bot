@@ -5,7 +5,7 @@ var fortunecookie = {
 	commands: ['fortunecookie'],
 	cooldown: 5,
 	lastUsed: 0,
-	roleRequired: 'user',
+	roleRequired: 'none',
 	getFcookie: function (chat) {
                     var c = Math.floor(Math.random() * lang.fortunes.fortunecookies.length);
                     return lang.fortunes.fortunecookies[c];
