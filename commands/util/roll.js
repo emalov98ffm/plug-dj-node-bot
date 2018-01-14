@@ -8,6 +8,9 @@ var roll = {
 	roleRequired: 'user',
 	exec: function(bot, chat, data) {
 		var user,
+		    if (!data.params.length)
+	        return bot.sendChat(utils.replaceString(lang.general.userNotFound, {user: chat.username}));
+		    
 		if (data.params[0].toLowerCase() == 'id') {
 	        user = auxapi.users.getUserByID(data.params[1]);
 	    } else {
