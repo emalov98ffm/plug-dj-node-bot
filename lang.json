@@ -16,10 +16,10 @@
         "movie": "[user] [movie] @%%USER%% Gledaj online filmove na: http://www.filmoviplex.pw/"
     },
     "dc" : {
-        "notDisc": "[dc] @%%USER%% Ovaj korisnik se nije bio izlogovao!",
-        "tooLong": "[dc] @%%USER%% Ti si bio ulogovan pre (%%TIME%%) na poziciji %%POSITION%%!",
-        "tooLongBooth": "[dc] @%%USER%% Ti si se izlogovao pre (%%TIME%%) u playlisti!",
-        "tooTimeElap": "[dc] @%%USER%% Diskonektovao si se odaprije playlisti, ali pesma je zavrsena %%PERC%%% od celog trajanja!",
+        "notDisc": "[dc] @%%USER%% Ovaj korisnik se nije bio diskonektovao ili postoji greska dok pokusavam da trazim bazu podataka,!",
+        "tooLong": "[dc] @%%USER%% Ti si se bio diskonektovao prije (%%TIME%%) na poziciji %%POSITION%%!",
+        "tooLongBooth": "[dc] @%%USER%% Ti si se diskonektovao prije (%%TIME%%) u playlisti!",
+        "tooTimeElap": "[dc] @%%USER%% Diskonektovao si se odavde prije %%TIME%% , ali pesma je zavrsena %%PERC%%% od celog trajanja!",
         "disc": "[dc] @%%USER%% Diskonektovao si se odavde prije %%TIME%% na poziciji %%POSITION%%",
         "discBooth": "[dc] @%%USER%% Diskonektovan si odavde. %%TIME%% u playlisti posle %%PERC%% tvoje pesme",
         "alrAct": "[dc] @%%USER%% DC query je vec omogucen",
