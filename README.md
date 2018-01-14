@@ -24,6 +24,7 @@ Commands
 - Fortunecookie
 - Vdownload
 - Download
+- Movie
 - Bouncerplus
 - Lockskip
 - Skip
