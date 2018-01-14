@@ -1,5 +1,5 @@
 {
-    "name": "samBOT",
+    "name": "s.a.mBOT",
     "version": "0.1.1",
     "scripts": {
         "start": "node main.js"
