@@ -94,7 +94,7 @@
     "songstats": {
         "enabled": "[info] @%%USER%% Songstats aktiviran!",
         "disabled": "[songstats] @%%USER%% Songstats deaktiviran!",
-        "stats": "[info] %%USER%% Pjesma: %%AUTHOR%% - %%TITLE%% (%%WOOT%% :+1: %%GRAB%% :blue_heart: %%MEH%% :-1: )"
+        "stats": "[info] @%%USER%% Pjesma: %%AUTHOR%% - %%TITLE%% (%%WOOT%% :+1: %%GRAB%% :blue_heart: %%MEH%% :-1: )"
     },
     "songinfo": {
         "enabled": "[mod] [songinfo] @%%USER%% Songinfo aktiviran!",
@@ -102,8 +102,8 @@
         "notLoaded": "[stats] [songinfo] @%%USER%% Nema informacija o trenutnoj stavki.",
         "statsYT": "[stats] [songinfo] %%USER%% dodiruje : %%NAME%% ( :oci: %%VIEWS%% , :+1: %%LIKE%%, :-1: %%DISLIKE%%, Komentari: %%COMMENTS%%, dužina: %%DUR%%), Uploudovano: %%UPLOADED%%)",
         "statsSC": "[stats] [songinfo] %%USER%% pušta: %%NAME%% (Reprodukcija: %%PLAY%%, :zvijezda:: %%STARS%%, žanr: %%GENRE%%, skidanja: %%DL%%, uploudovano: %%UPLOADED%%, dužina: %%DUR%%)",
-	"shorterDuration": "[warning] [songinfo] %%USER%% Pjesma koja je puštena traje manje od orginala (%%PLUGTIME%%, %%SOURCETIME%%).Kao posljedica toga, neće se reproducirati u cijelosti. ",
-        "longerDuration": "[warning] [songinfo] %%USER%% Pjesma koja je puštena traje duže od orginala (%%PLUGTIME%%, %%SOURCETIME%%), kao rezultat toga, preskočit će se nakon stvarnog trajanja." ,
+	"shorterDuration": "[warning] [songinfo] @%%USER%% Pjesma koja je puštena traje manje od orginala (%%PLUGTIME%%, %%SOURCETIME%%).Kao posljedica toga, neće se reproducirati u cijelosti. ",
+        "longerDuration": "[warning] [songinfo] @%%USER%% Pjesma koja je puštena traje duže od orginala (%%PLUGTIME%%, %%SOURCETIME%%), kao rezultat toga, preskočit će se nakon stvarnog trajanja." ,
         "infoFailed": "[info] [songinfo] Nemam trenutnih informacija o pjesmi. ",
         "notFound": "[info] [songinfo] @ %%USER%% Video je privatan ili nedostupan,biti će skipovan. Prebacujem te na %%POS%% mjesto u wl!",
         "coutryUnavaliable": "[info] [songinfo] @%%USER%% Ovaj videozapis se ne može reproducirati u ovoj zemlji, bit će skipovan. Prebacujem te na %%POS%% mjesto u wl!",
@@ -121,9 +121,9 @@
     "afkremoval": {
         "enabled": "[mod] [afkremoval] @%%USER%% Afkremoval je aktiviran!",
         "disabled": "[mod] [afkremoval] @%%USER%% Afkremoval je deaktiviran!",
-	"warn1": "[bot] [afkremoval] @ %% USER %% Dosta vremena ste AFK,molimo pišite nešto u chat u narednih nekoliko minuta ili ću vas ukloniti s popisa čekanja. ",
-        "warn2": "[bot] [afkremoval] @ %% USER %% Zadnje upozorenje: Molimo pišite nešto u sljedećih nekoliko minuta ili ću vas ukloniti s liste čekanja.",
-        "warn2": "[bot] [afkremoval] @ %% USER %% Uklanja vas s popisa čekanja neaktivnosti. Nema potrebe plakati."
+	"warn1": "[bot] [afkremoval] @%%USER%% Dosta vremena ste AFK,molimo pišite nešto u chat u narednih nekoliko minuta ili ću vas ukloniti s popisa čekanja. ",
+        "warn2": "[bot] [afkremoval] @%%USER%% Zadnje upozorenje: Molimo pišite nešto u sljedećih nekoliko minuta ili ću vas ukloniti s liste čekanja.",
+        "warn2": "[bot] [afkremoval] @%%USER%% Uklanja vas s popisa čekanja neaktivnosti. Nema potrebe plakati."
     },
     "roullete": {
 	"lotteryWinner": "[roulette] @%%USER%% pobijedili ste na automatskom ruletu i biti cete premješteni na poziciju 1.! @djs sljedeći će biti izabran za 1 sat! ",
