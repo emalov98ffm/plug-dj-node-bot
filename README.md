@@ -20,14 +20,15 @@ Usage
 Commands
 ---
 
-- Autoskip
+- Vdownload
+- Download
 - Bouncerplus
 - Lockskip
 - Skip
 - Staff
 - Swap
 - Eta
-- Links
+- Links [image, facebook, commands, song, rules]
 - Ping
 - Songinfo
 - Songstats
