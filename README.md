@@ -20,6 +20,7 @@ Usage
 Commands
 ---
 
+- Fortunecookie
 - Vdownload
 - Download
 - Bouncerplus
