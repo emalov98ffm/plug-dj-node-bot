@@ -12,7 +12,7 @@ var roll = {
 					if ((isNaN(randomMax) == true) || (randomMax.length == 0)) {
 						var randomMax = 60;
 					}
-					var randomispis = Math.floor((Math.random() * randomMax) + 1)
+					var randomispis = Math.floor((Math.random() * randomMax) + 1);
 					if(randomispis == 6)
 					{
 					bot.moveDJ(user, 1);
