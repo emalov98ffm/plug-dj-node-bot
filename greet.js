@@ -1,5 +1,6 @@
 var fs = require('fs');
 var Plugged = require("./plugged");
+var utils = require('./utils/utils');
 
 class OurSuperAwesomeBot extends Plugged {
     constructor(options={}) {
@@ -7,7 +8,7 @@ class OurSuperAwesomeBot extends Plugged {
     }
     // here we add our new code
     greet(user) {
-        this.sendChat(`Hi, @${user.username}`);
+        bot.sendChat(`Hi, @${user.username}`);
     }
 }
 
