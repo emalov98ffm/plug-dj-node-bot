@@ -19,6 +19,9 @@ Usage
 -----------------
 Commands
 ---
+
+- Roll
+- Anime
 - Autowoot
 - Truth & Dare
 - Fortunecookie
