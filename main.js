@@ -5,6 +5,8 @@ var utils = require('./utils/utils');
 var settings = require(process.cwd() + '/settings');
 const express = require('express');
 const app = express();
+const OurSuperAwesomeBot = require("./greet");
+const bot = new OurSuperAwesomeBot();
 
 
 
@@ -45,6 +47,16 @@ plugged.on(plugged.JOINED_ROOM, function() {
 	
 //	require(process.cwd() + '/events/chat').init(plugged);
 });
+
+//Greet Users
+const joinedRoom = function(err, room) {
+        if (!err) {
+            console.log("connected to room!");
+            bot.on(bot.USER_JOIN, user => bot.greet(user));
+        } else {
+            console.log(err);
+        }
+    }
 
 plugged.on(plugged.JOINED_ROOM, function _joinedRoom() {
     plugged.on(plugged.ADVANCE, function() {
