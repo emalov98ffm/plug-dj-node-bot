@@ -20,6 +20,7 @@ Usage
 Commands
 ---
 
+- Truth & Dare
 - Fortunecookie
 - Vdownload
 - Download
