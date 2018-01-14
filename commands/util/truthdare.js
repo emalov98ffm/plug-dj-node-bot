@@ -12,7 +12,7 @@ var truthdare = {
 			getTruth: function (chat) {
                     var c = Math.floor(Math.random() * lang.truthdare.truths.length);
                     return lang.truthdare.truths[c];
-                }
+                };
 				bot.sendChat(utils.replaceString(lang.truthdare.truth, {user: chat.username, truth: this.getTruth()}), 30e3);
 				break;
 			
@@ -20,7 +20,7 @@ var truthdare = {
 			 getDare: function(chat) {
                     var c = Math.floor(Math.random() * lang.truthdare.dares.length);
                     return lang.truthdare.dares[c];
-                }
+                };
 				bot.sendChat(utils.replaceString(lang.truthdare.dare, {user: chat.username, dare: this.getDare()}), 30e3);
 				break;
 		}
