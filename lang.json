@@ -138,9 +138,9 @@
       "off":"Iskljuceno"
    },
    "ping":{  
-      "ping":"[Ping] @%%USER%% pong!",
-      "pong":"[Ping] @%%USER%% ping!",
-      "bot":"[bot] @%%USER%% Ja sam bot i vrsim male moderacije sobe, sve ostalo mozes mozes pitati admina ili kucati !explain (komanda)"
+      "ping":"[ping] @%%USER%% pong!",
+      "pong":"[pong] @%%USER%% ping!",
+      "bot":"[bot] @%%USER%% Ja sam bot i vrsim male moderacije sobe, sve ostalo mozes mozes pitati admina ili kucati !explain (komanda)(Uskoro)"
    },
    "fp":{  
       "movie":"[user] [movie] @%%USER%% Gledaj online filmove na: http://www.filmoviplex.pw/"
@@ -153,9 +153,9 @@
       "mpdownload":"[user] [download] @%%USER%% Trenutnu pjesmu kao mp3 mozes skinuti klikom na %%ULINK%%"
    },
    "dc":{  
-      "notDisc":"[dc] @%%USER%% Ovaj korisnik se nije bio diskonektovao ili postoji greska dok pokusavam da trazim bazu podataka,!",
+      "notDisc":"[dc] @%%USER%% Nisi se diskonektovao tokom mog boravka ovdje!",
       "tooLong":"[dc] @%%USER%% Ti si se bio diskonektovao prije (%%TIME%%) na poziciji %%POSITION%%!",
-      "tooLongBooth":"[dc] @%%USER%% Ti si se diskonektovao prije (%%TIME%%) u playlisti!",
+      "tooLongBooth":"[dc] @%%USER%% Ti si se diskonektovao prije (%%TIME%%) minuta.",
       "tooTimeElap":"[dc] @%%USER%% Diskonektovao si se odavde prije %%TIME%% , ali pesma je zavrsena %%PERC%%% od celog trajanja!",
       "disc":"[dc] @%%USER%% Diskonektovao si se odavde prije %%TIME%% na poziciji %%POSITION%%",
       "discBooth":"[dc] @%%USER%% Diskonektovan si odavde. %%TIME%% u playlisti posle %%PERC%% tvoje pesme",
@@ -173,8 +173,8 @@
       "modUnlockedWL":"[dc] @%%USER%% Skinite prljavu ruku sa tog dugmeta i dozvolite mi da radim u miru"
    },
    "eta":{  
-      "notInWL":"[eta] @%%USER%% Ti nisi u listi cekanja, zbog toga ne mogu procijeniti kad bi mogao doci na red.",
-      "alrPlaying":"[eta] @%%USER%% Ti si vec DJ. Pravis se pametan samo.",
+      "notInWL":"[eta] @%%USER%% Ti nisi u listi cekanja, pokusaj uci pa ponovi komandu.",
+      "alrPlaying":"[eta] @%%USER%% Ti si vec DJ. Pravis se pametan samo sad.",
       "ETA":"[eta] @%%USER%% Doci ces na red za %%TIME%%! otprilike.",
       "alrAct":"[mod] [eta] @%%USER%% ETA query je vec omogucena",
       "actived":"[mod] [eta] @%%USER%% ETA nalog omogucen",
