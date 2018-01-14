@@ -260,7 +260,7 @@
       "disabled":"[mod] [afkremoval] @%%USER%% Afkremoval je deaktiviran!",
       "warn1":"[bot] [afkremoval] @%%USER%% Dosta vremena ste AFK,molimo pišite nešto u chat u narednih nekoliko minuta ili ću vas ukloniti s popisa čekanja. ",
       "warn2":"[bot] [afkremoval] @%%USER%% Zadnje upozorenje: Molimo pišite nešto u sljedećih nekoliko minuta ili ću vas ukloniti s liste čekanja.",
-      "warn2":"[bot] [afkremoval] @%%USER%% Uklanja vas s popisa čekanja neaktivnosti. Nema potrebe plakati."
+      "warn3":"[bot] [afkremoval] @%%USER%% Uklanja vas s popisa čekanja neaktivnosti. Nema potrebe plakati."
    },
    "roullete":{  
       "lotteryWinner":"[roulette] @%%USER%% pobijedili ste na automatskom ruletu i biti cete premješteni na poziciju 1.! @djs sljedeći će biti izabran za 1 sat! ",
