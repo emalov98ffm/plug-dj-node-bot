@@ -5,7 +5,7 @@ var ping = {
 	commands: ['ping','pong','bot'],
 	cooldown: 5,
 	lastUsed: 0,
-	roleRequired: 'user',
+	roleRequired: 'none',
 	exec: function(bot, chat, data) {
 		switch(data.cmd) {
 			case 'ping':
