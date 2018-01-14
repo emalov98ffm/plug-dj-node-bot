@@ -46,4 +46,4 @@ Commands
 Languages
 ---
 
-- English
+- Bosnian
