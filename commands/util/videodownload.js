@@ -5,7 +5,7 @@ var vdownload = {
 	commands: ['vdownload'],
 	cooldown: 5,
 	lastUsed: 0,
-	roleRequired: 'user',
+	roleRequired: 'none',
 	exec: function(bot, chat, data) {
 		            var media = bot.getMedia();
 		            var linkToSong = "http://www.sfrom.net/https://www.youtube.com/watch?v=" + media.cid;
