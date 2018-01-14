@@ -5,7 +5,7 @@ var download = {
 	commands: ['download'],
 	cooldown: 5,
 	lastUsed: 0,
-	roleRequired: 'user',
+	roleRequired: 'none',
 	exec: function(bot, chat, data) {
 		            var media = bot.getMedia();
 		            var linkToSong = "https://break.tv/widget/mp3/?link=https://www.youtube.com/watch?v=" + media.cid;
