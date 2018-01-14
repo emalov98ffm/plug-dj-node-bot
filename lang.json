@@ -51,7 +51,7 @@
              "Za dobre stvari treba vremena."
         
        ],
-         "cookie": "[fortunecookie] %%USER%% Tvoj sretni kolacic kaze: %%FORTUNE%%."
+         "cookie": "[fortunecookie] @%%USER%% Tvoj sretni kolacic kaze: %%FORTUNE%%."
     },
 	
 	"general" : {
