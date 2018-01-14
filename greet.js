@@ -1,4 +1,5 @@
-const Plugged = require("plugged");
+var fs = require('fs');
+var Plugged = require("./plugged");
 
 class OurSuperAwesomeBot extends Plugged {
     constructor(options={}) {
