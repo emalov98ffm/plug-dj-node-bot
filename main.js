@@ -58,10 +58,17 @@ plugged.on(plugged.JOINED_ROOM, function() {
 //	require(process.cwd() + '/events/chat').init(plugged);
 });
 
+const joinedRoom = function(err, room) {
+        if (!err) {
+            console.log("connected to room!");
+            plugged.on(bot.USER_JOIN, user => bot.greet(user));
+        } else {
+            console.log(err);
+        }
+    }
 
 plugged.on(plugged.JOINED_ROOM, function _joinedRoom() {
     plugged.on(plugged.ADVANCE, function() {
-    plugged.on(bot.USER_JOIN, user => bot.greet(user));
         //WOOT!
         plugged.woot();
     });
