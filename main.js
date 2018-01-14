@@ -53,7 +53,7 @@ plugged.on(plugged.JOINED_ROOM, function _joinedRoom() {
 
 plugged.on(plugged.USER_JOIN, function(user) {
     plugged.sendChat("Dobrodosao/la " + user);
-};
+});
 /*
 plugged.on(plugged.CHAT_DELETE, function(data) {
 	console.log(data ? JSON.stringify(data, null, 3) : 'Nada');
