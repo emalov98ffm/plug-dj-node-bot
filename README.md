@@ -20,6 +20,7 @@ Usage
 Commands
 ---
 
+- Heart
 - Roll
 - Anime
 - Autowoot
