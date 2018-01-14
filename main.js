@@ -6,8 +6,6 @@ var settings = require(process.cwd() + '/settings');
 const express = require('express');
 const app = express();
 
-
-
 var plugged = new Plugged();
 
 plugged.log = console.log;
