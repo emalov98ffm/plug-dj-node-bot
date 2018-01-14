@@ -1,5 +1,6 @@
 var lang = require(process.cwd() + '/lang.json');
 var utils = require(process.cwd() + '/utils/utils');
+var auxapi = require(process.cwd() + '/auxapi');
 
 var roll = {
 	commands: ['roll'],
