@@ -52,7 +52,7 @@ var afkremoval = {
 	afkthread: null,
 	listActivity: {},
 	bot: null,
-	roleRequired: 'bouncer',
+	roleRequired: 'manager',
 	init: function(bot) {
 	    afkremoval.bot = bot;
 	    
