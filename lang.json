@@ -144,6 +144,7 @@
    },
    "fp":{  
       "movie":"[user] [movie] @%%USER%% Gledaj online filmove na: http://www.filmoviplex.pw/"
+      "anime":"[user] [anime] @%%USER%% Gledaj Anime u HD kvalitetu bez reklama sa prevodom na: https://www.anime404.com/"
    },
    "autowoot":{  
       "origem":"[autowoot] @%%USER%% Preporucujemo da koristite Origem za autowoot: https://origemwoot.github.io/"
