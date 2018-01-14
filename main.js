@@ -61,7 +61,7 @@ plugged.on(plugged.JOINED_ROOM, function() {
 
 plugged.on(plugged.JOINED_ROOM, function _joinedRoom() {
     plugged.on(plugged.ADVANCE, function() {
-    plugged.on(plugged.USER_JOIN, user => bot.greet(user);
+    plugged.on(bot.USER_JOIN, user => bot.greet(user));
         //WOOT!
         plugged.woot();
     });
