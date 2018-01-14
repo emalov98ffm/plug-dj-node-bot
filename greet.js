@@ -1,3 +1,5 @@
+const Plugged = require("plugged");
+
 class OurSuperAwesomeBot extends Plugged {
     constructor(options={}) {
         super(options);
