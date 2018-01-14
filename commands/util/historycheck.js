@@ -8,7 +8,7 @@ var historycheck = {
 	cooldown: 5,
 	lastUsed: 0,
 	deleteMessage: true,
-	roleRequired: 'bouncer',
+	roleRequired: 'manager',
 	exec: function(bot, chat, data) {
 		if (data.params.length == 0) {
 			settings.data.historycheck.on = !settings.data.historycheck.on;
