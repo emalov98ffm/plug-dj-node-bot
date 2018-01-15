@@ -21,7 +21,7 @@ Usage
 [cmds]Commands
 ---
 
-- Heart
+User - Heart - See how much bot loves you
 - Roll
 - Anime
 - Autowoot
