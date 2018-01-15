@@ -197,8 +197,8 @@
       "disabled":"[mod] [eta] @%%USER%% ETA nalog onemogucen"
    },
    "skip":{  
-      "noDJ":"[mod] [skip] @%%USER%% Ne mozes prekoscit nekoga, ako nema nikoga da pusta muziku zar ne?",
-      "skip":"[mod] [skip] %%USER%% Preskacem trenutnog Dj-a"
+      "noDJ":"[mod] [s/kip] @%%USER%% Ne mozes prekoscit nekoga, ako nema nikoga da pusta muziku zar ne?",
+      "skip":"[mod] [s/kip] %%USER%% Preskacem trenutnog Dj-a"
    },
    "swap":{  
       "notInWL":"[swap] [move] @%%USER%% Oba korisnika moraju biti vec u listi cekanja!",
@@ -222,22 +222,22 @@
       "limit":"[mod] [medialimit] @%%USER%% Postavljen maximalan vremenski limit za glazbu: %%LIMIT%%",
       "disabled":"[mod] [medialimit] @%%USER%% Limit je iskljucen",
       "invalidLimit":"[mod] medialimit] @%%USER%% Limit mora biti veci od nule!",
-      "lockskip":"[warning] [medialimit] @%%USER%% DJ ce biti skipovan i premesten na poziciju %%POS%%",
-      "lockskipDis":"[mod] [medialimit] @%%USER%% lockskip je iskljucen.",
-      "siDisabled":"[mod] [medialimit] @%%USER%% Pjesma ce biti skipovana kada dostigne limit.",
-      "siEnabled":"[mod] [medialimit] @%%USER%% Pjesma ce biti skipovana odma ako predje definisani limit.",
+      "lockskip":"[warning] [medialimit] @%%USER%% DJ ce biti ski/povan i premesten na poziciju %%POS%%",
+      "lockskipDis":"[mod] [medialimit] @%%USER%% lockski/p je iskljucen.",
+      "siDisabled":"[mod] [medialimit] @%%USER%% Pjesma ce biti ski/povana kada dostigne limit.",
+      "siEnabled":"[mod] [medialimit] @%%USER%% Pjesma ce biti ski/povana odma ako predje definisani limit.",
       "skip":"[warning] [medialimit] @%%USER%% Tvoja pjesma je presla maximalnu duzinu od %%TIME%% i bice preskocena!",
-      "skipAfterLimit":"[warning] [medialimit] @%%USER%% Tvoja pjesma je presla maximalnu duzinu od %%TIME%% i bice skipovana poslije tog vremena!"
+      "skipAfterLimit":"[warning] [medialimit] @%%USER%% Tvoja pjesma je presla maximalnu duzinu od %%TIME%% i bice ski/povana poslije tog vremena!"
    },
    "bouncerplus":{  
       "actived":"bouncer+] @%%USER%% Bouncer+ je aktiviran!",
       "disactived":"[bouncer+] @%%USER%% Bouncer+ je deaktiviran!!"
    },
    "autoskip":{  
-      "status":"[info] [autoskip] @%%USER%% autoskip: %%ON%%, Vreme posle pjesme: %%TIME%%",
-      "enabled":"[autoskip] @%%USER%% Autoskip aktiviran!",
-      "disabled":"[autoskip] @%%USER%% Autoskip deaktiviran!",
-      "time":"[warning] [autoskip] @%%USER%% DJ ce biti skipovan posle %%TIME%% sekundi!"
+      "status":"[info] [autoskip] @%%USER%% autosk/ip: %%ON%%, Vreme posle pjesme: %%TIME%%",
+      "enabled":"[autoskip] @%%USER%% Autosk/ip aktiviran!",
+      "disabled":"[autoskip] @%%USER%% Autosk/ip deaktiviran!",
+      "time":"[warning] [autoskip] @%%USER%% DJ ce biti ski/povan posle %%TIME%% sekundi!"
    },
    "lockskip":{  
       "noDJ":"[lockskip] @%%USER%% Nema DJ-a za preskakanje!",
@@ -257,9 +257,9 @@
       "shorterDuration":"[warning] [songinfo] @%%USER%% Pjesma koja je puštena traje manje od orginala (%%PLUGTIME%%, %%SOURCETIME%%).Kao posljedica toga, neće se reproducirati u cijelosti. ",
       "longerDuration":"[warning] [songinfo] @%%USER%% Pjesma koja je puštena traje duže od orginala (%%PLUGTIME%%, %%SOURCETIME%%), kao rezultat toga, preskočit će se nakon stvarnog trajanja.",
       "infoFailed":"[info] [songinfo] Nemam trenutnih informacija o pjesmi. ",
-      "notFound":"[info] [songinfo] @%%USER%% Video je privatan ili nedostupan,biti će skipovan. Prebacujem te na %%POS%% mjesto u wl!",
-      "coutryUnavaliable":"[info] [songinfo] @%%USER%% Ovaj videozapis se ne može reproducirati u ovoj zemlji, bit će skipovan. Prebacujem te na %%POS%% mjesto u wl!",
-      "embedDisabled":"[info] [songinfo] @%%USER%% Ovaj se videozapis može pregledati samo na youtube stranici, biti će skipovan. Prebacujem te na %%POS%% mjesto u wl!"
+      "notFound":"[info] [songinfo] @%%USER%% Video je privatan ili nedostupan,biti će ski/povan. Prebacujem te na %%POS%% mjesto u wl!",
+      "coutryUnavaliable":"[info] [songinfo] @%%USER%% Ovaj videozapis se ne može reproducirati u ovoj zemlji, bit će ski/povan. Prebacujem te na %%POS%% mjesto u wl!",
+      "embedDisabled":"[info] [songinfo] @%%USER%% Ovaj se videozapis može pregledati samo na youtube stranici, biti će ski/povan. Prebacujem te na %%POS%% mjesto u wl!"
    },
    "clearchat":{  
       "clearAll":"[mod] [clearchat] @%%USER%% Brišem cijeli chat, pričekajte...",
