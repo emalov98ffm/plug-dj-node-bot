@@ -7,7 +7,7 @@ var lockskip = {
 	commands: ['swap'],
 	cooldown: 5,
 	lastUsed: 0,
-	roleRequired: 'bouncer+',
+	roleRequired: 'manager',
 	exec: function(bot, chat, data) {
 	    var user1, user2;
 	    
