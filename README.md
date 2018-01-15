@@ -18,9 +18,9 @@ Usage
 * in cmd write node main.js
 
 -----------------
-[cmds]Commands
+Commands
 ---
-
+__(Min Rank - Command -  Explanation)__
 - User - Heart - See how much bot loves you
 - Roll
 - Anime
