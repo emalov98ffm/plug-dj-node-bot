@@ -1,4 +1,4 @@
-# plug dj bot writed in node.js with commands
+# Plug dj bot writed in node.js with commands
 - A complete community bot
 
 
@@ -6,6 +6,7 @@
 Our Team
 ---
  - [CIKER]() __(Owner/Developer)__
+ - [ajdin1997]() __(Customization/Edits Current Bot)__
 
 -----------------
 IMPORTANT
