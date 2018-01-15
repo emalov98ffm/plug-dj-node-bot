@@ -15,9 +15,9 @@ var roll = {
 						var randomMax = 60
 					}
 					var randomispis = Math.floor((Math.random() * randomMax) + 1)
-					if(randomispis == 6) {
-					bot.moveDJ(user, 1);
+					if(randomispis == 6) {				
 	    return bot.sendChat("@" + chat.username + ", cestitam, upravo si osvojio prvo mjesto.");
+					bot.moveDJ(user, 1);
 	}
 	else
 					{
