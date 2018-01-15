@@ -61,18 +61,26 @@ plugged.on(plugged.USER_JOIN, function(user) {
 
 // S.A.M SADA GOVORI?
 plugged.on(plugged.CHAT, function(chat) {
-    if (chat.message.indexOf('skip') !== -1 || chat.message.indexOf('Skip') !== -1){                
-                    var SKmsg = ["Traziti s/kip nije dozvoljeno, procitaj pravila!","Koristi !rules ako si novi, traziti s/kip nije dozvoljeno."];
-                    plugged.sendChat("@" + chat.username + " " + SKmsg[Math.floor(Math.random() * SKmsg.length)]);
-} 
-    if (chat.message.indexOf('Kako?') !== -1){                
-                    var KAKMsg = ["Tako!","Onako!","Sta te briga!"];
-                    plugged.sendChat("@" + chat.username + " " + KAKMsg[Math.floor(Math.random() * KAKMsg.length)]);
-} 
-if (chat.message.indexOf('Gdje?') !== -1){                
-                    var GDJMsg = ["Kod ivana!","Na kaucu?","Kod tetke mi ha?","U sobi mozda?"];
-                    plugged.sendChat("@" + chat.username + " " + GDJMsg[Math.floor(Math.random() * GDJMsg.length)]);
-} 
+    if (chat.message.indexOf('skip') !== -1 || chat.message.indexOf('Skip') !== -1) {
+        var SKMsg = ["Traziti s/kip nije dozvoljeno, procitaj pravila!", "Koristi !rules ako si novi, traziti s/kip nije dozvoljeno."];
+        plugged.sendChat("@" + chat.username + " " + SKMsg[Math.floor(Math.random() * SKMsg.length)]);
+    }
+    if (chat.message.indexOf('Kako?') !== -1) {
+        var KAKMsg = ["Tako!", "Onako!", "Sta te briga!", "Nikako."];
+        plugged.sendChat("@" + chat.username + " " + KAKMsg[Math.floor(Math.random() * KAKMsg.length)]);
+    }
+    if (chat.message.indexOf('Gdje?') !== -1) {
+        var GDJMsg = ["Kod ivana!", "Na kaucu?", "Kod tetke mi ha?", "U sobi mozda?"];
+        plugged.sendChat("@" + chat.username + " " + GDJMsg[Math.floor(Math.random() * GDJMsg.length)]);
+    }
+    if (chat.message.indexOf('Kad?') !== -1 || chat.message.indexOf('Kada?') !== -1) {
+        var KDMsg = ["Kad god hoces!", "Nikad!", "Sutra!", "Sta te briga."];
+        plugged.sendChat("@" + chat.username + " " + KDMsg[Math.floor(Math.random() * KDMsg.length)]);
+    }
+    if (chat.message.indexOf('S kim?') !== -1) {
+        var SKIMsg = ["S Tetkom?", "Sa Ivanom?", "Sa Eminom?", "Samnom?"];
+        plugged.sendChat("@" + chat.username + " " + SKIMsg[Math.floor(Math.random() * SKIMsg.length)]);
+    }
 
 });
 /*
