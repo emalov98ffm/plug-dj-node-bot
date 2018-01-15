@@ -5,7 +5,7 @@ var truthdare = {
 	commands: ['truth','dare'],
 	cooldown: 5,
 	lastUsed: 0,
-	deleteMessage: true,
+	deleteMessage: false,
 	roleRequired: 'none',
 	getTruth: function (chat) {
                     var c = Math.floor(Math.random() * lang.truthdare.truths.length);
