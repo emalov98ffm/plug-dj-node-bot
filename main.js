@@ -69,7 +69,7 @@ plugged.on(plugged.CHAT, function(chat) {
         var KAKMsg = ["Tako!", "Onako!", "Sta te briga!", "Nikako."];
         plugged.sendChat("@" + chat.username + " " + KAKMsg[Math.floor(Math.random() * KAKMsg.length)]);
     }
-    if (chat.message.indexOf('Gdje?') !== -1) {
+    if (chat.message.indexOf('Gdje?') !== -1 || chat.message.indexOf('dje') !== -1) {
         var GDJMsg = ["Kod ivana!", "Na kaucu?", "Kod tetke mi ha?", "U sobi mozda?"];
         plugged.sendChat("@" + chat.username + " " + GDJMsg[Math.floor(Math.random() * GDJMsg.length)]);
     }
@@ -92,5 +92,5 @@ plugged.on(plugged.VOTE, function(data) {
 	console.log(data ? JSON.stringify(data, null, 3) : 'Nada');
 });*/
 
-app.get('/', (req, res) => res.send('PrimeBOT is UP and running.'));
+app.get('/', (req, res) => res.send('S.I.M.BOT is UP and running.'));
 app.listen(process.env.PORT || 3000, () => console.log('Bot Running!'));
