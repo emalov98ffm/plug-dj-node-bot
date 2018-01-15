@@ -6,6 +6,7 @@ var roll = {
 	commands: ['roll'],
 	cooldown: 1800,
 	lastUsed: 0,
+	deleteMessage: true,
 	roleRequired: 'none',
 	exec: function(bot, chat, data) {
 	var user = auxapi.users.getUserByID(chat.id);
