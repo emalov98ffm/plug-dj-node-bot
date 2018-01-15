@@ -65,16 +65,16 @@ plugged.on(plugged.CHAT, function(chat) {
         var SKMsg = ["Traziti s/kip nije dozvoljeno, procitaj pravila!", "Koristi !rules ako si novi, traziti s/kip nije dozvoljeno."];
         plugged.sendChat("@" + chat.username + " " + SKMsg[Math.floor(Math.random() * SKMsg.length)]);
     }
-    if (chat.message.indexOf('Kako?') !== -1) {
-        var KAKMsg = ["Tako!", "Onako!", "Sta te briga!", "Nikako.","Fino!!","Bolje da ne znas!!"];
+    if (chat.message.indexOf('Kako?') !== -1 || chat.message.indexOf('Kako') !== -1) {
+        var KAKMsg = ["Tako!", "Onako!", "Sta te briga!", "Nikako.","Fino!!","Bolje da ne znas!!","Pitaj Merimu!!"];
         plugged.sendChat("@" + chat.username + " " + KAKMsg[Math.floor(Math.random() * KAKMsg.length)]);
     }
     if (chat.message.indexOf('Gdje?') !== -1 || chat.message.indexOf('dje') !== -1) {
-        var GDJMsg = ["Kod ivana!", "Na kaucu?", "Kod tetke mi ha?", "U sobi mozda?"];
+        var GDJMsg = ["Kod ivana!", "Na kaucu?", "Kod tetke mi ha?", "U sobi mozda?","Ko ivana hu","U pm!!"];
         plugged.sendChat("@" + chat.username + " " + GDJMsg[Math.floor(Math.random() * GDJMsg.length)]);
     }
     if (chat.message.indexOf('Kad?') !== -1 || chat.message.indexOf('Kada?') !== -1) {
-        var KDMsg = ["Kad god hoces!", "Nikad!", "Sutra!", "Sta te briga.","Kad hoces!!","Vidjet cemo!!","Zvat cu te"];
+        var KDMsg = ["Kad god hoces!", "Nikad!", "Sutra!", "Sta te briga.","Kad hoces!!","Vidjet cemo!!","Zvat cu te","Evo maloprije ka/d se Meri tusirala!!"];
         plugged.sendChat("@" + chat.username + " " + KDMsg[Math.floor(Math.random() * KDMsg.length)]);
     }
     if (chat.message.indexOf('S kim?') !== -1) {
