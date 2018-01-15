@@ -54,6 +54,16 @@ Commands
 - Roullete (Soon or fix it :p)
 
 -----------------
+Bot now respond to these words
+---
+
+- Kako?
+- Gdje?, gdje
+- Kad?, Kada?
+- S kim?
+- Sta?, Sta
+- Zasto?, Zasto, Sto
+-----------------
 Languages
 ---
 
