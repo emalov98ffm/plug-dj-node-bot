@@ -85,7 +85,7 @@ plugged.on(plugged.CHAT, function(chat) {
         var STMsg = ["Nista!!", "Glava ti ko pišta!!!", "Stap za pecanje ha", "Sta te briga"];
         plugged.sendChat("@" + chat.username + " " + STMsg[Math.floor(Math.random() * STMsg.length)]);
     }
-	if (chat.message.indexOf('Zasto?') !== -1 || chat.message.indexOf('Zasto') !== -1) {
+	if (chat.message.indexOf('Zasto?') !== -1 || chat.message.indexOf('Zasto') !== -1 || chat.message.indexOf('Sto') !== -1) {
         var ZASMsg = ["Zato!!", "Zato jer ja kazem tako!!", "Jer tako ivan kaze!!", "Jer sam ja pametan ti nisi!!"];
         plugged.sendChat("@" + chat.username + " " + ZASMsg[Math.floor(Math.random() * ZASMsg.length)]);
     }
