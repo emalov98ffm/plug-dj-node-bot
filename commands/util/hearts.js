@@ -5,6 +5,7 @@ var hearts = {
 	commands: ['heart'],
 	cooldown: 5,
 	lastUsed: 0,
+	deleteMessage: true,
 	roleRequired: 'none',
 	exec: function(bot, chat, data) {
 	var love = ""
