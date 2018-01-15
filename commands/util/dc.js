@@ -32,7 +32,7 @@ function execDC(bot, chat, data) {
 	if (!_dc)
 		return bot.sendChat(utils.replaceString(lang.dc.notDisc, {user: userdc.username}));
 	
-/*	
+// START	
 	if ((now - _dc.date) > tl) {
 		if (_dc.pos == 0)
 			return bot.sendChat(utils.replaceString(lang.dc.tooLongBooth, {
@@ -53,7 +53,7 @@ function execDC(bot, chat, data) {
 					time: utils.timeToString(utils.timeConvert(new Date().getTime(), _dc.date)),
 					perc: Math.floor(_dc.elap)
 				}));
-*/	
+// END	
 	if (_dc.pos > 0 )
 		bot.sendChat(utils.replaceString(lang.dc.disc, {
 						user: userdc.username,
