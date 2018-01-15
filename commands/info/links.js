@@ -9,7 +9,7 @@ var links = {
 	cooldown: 1,
 	lastUsed: 0,
 	deleteMessage: true,
-	roleRequired: 'residentdj',
+	roleRequired: 'none',
 	exec: function(bot, chat, data) {
 	    switch(data.cmd) {
 /*	        case 'fb':
