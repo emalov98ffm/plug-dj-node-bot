@@ -70,7 +70,7 @@ plugged.on(plugged.CHAT, function(chat) {
         plugged.sendChat("@" + chat.username + " " + KAKMsg[Math.floor(Math.random() * KAKMsg.length)]);
     }
     if (chat.message.indexOf('Gdje?') !== -1 || chat.message.indexOf('dje') !== -1) {
-        var GDJMsg = ["Kod ivana!", "Na kaucu?", "Kod tetke mi ha?", "U sobi mozda?","Ko ivana hu","U pm!!"];
+        var GDJMsg = ["Kod ivana!", "Na kaucu?", "Kod tetke mi ha?", "U sobi mozda?","Kod ivana hu","U pm!!"];
         plugged.sendChat("@" + chat.username + " " + GDJMsg[Math.floor(Math.random() * GDJMsg.length)]);
     }
     if (chat.message.indexOf('Kad?') !== -1 || chat.message.indexOf('Kada?') !== -1) {
