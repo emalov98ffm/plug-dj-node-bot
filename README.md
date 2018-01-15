@@ -20,7 +20,7 @@ Usage
 -----------------
 Commands
 ---
-__(Min Rank - Command -  Explanation)__
+- __Min Rank - Command -  Explanation__
 - User - Heart - See how much bot loves you
 - Roll
 - Anime
