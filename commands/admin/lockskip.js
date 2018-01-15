@@ -7,7 +7,7 @@ var lockskip = {
 	commands: ['lockskip', 'ls'],
 	cooldown: 5,
 	lastUsed: 0,
-	roleRequired: 'bouncer+',
+	roleRequired: 'bouncer',
 	exec: function(bot, chat, data) {
 	    var dj = bot.getBooth().dj;
 	    
