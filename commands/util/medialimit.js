@@ -86,7 +86,8 @@ var limit = {
 				if (settings.data.lockskip)
 					auxapi.lockskip(settings.data.lockskip);
 				else
-					bot.skipDJ(booth.dj);
+					var sdj = bot.getBooth().dj;
+			                bot.skipDJ(sdj);
 				
 				return false;
 			} else {
