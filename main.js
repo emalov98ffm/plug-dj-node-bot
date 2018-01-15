@@ -58,6 +58,10 @@ plugged.on(plugged.USER_JOIN, function(user) {
     var greet = greets[Math.floor(Math.random()*greets.length)];
     plugged.sendChat(greet + "@" + user.username);
 });
+
+plugged.on(plugged.CHAT, function(chat) {
+    if (data.message.indexOf('test') != 0) return plugged.sendChat("Radi");
+});
 /*
 plugged.on(plugged.CHAT_DELETE, function(data) {
 	console.log(data ? JSON.stringify(data, null, 3) : 'Nada');
