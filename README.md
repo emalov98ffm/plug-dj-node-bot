@@ -18,7 +18,7 @@ Usage
 * in cmd write node main.js
 
 -----------------
-Commands
+#Commands
 ---
 
 - Heart
