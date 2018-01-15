@@ -168,10 +168,10 @@
       "mpdownload":"[user] [download] @%%USER%% Trenutnu pjesmu kao mp3 mozes skinuti klikom na %%ULINK%%"
    },
    "dc":{  
-      "notDisc":"[dc] @%%USER%% Nisi se diskonektovao tokom mog boravka ovdje!",
-      "tooLong":"[dc] @%%USER%% Ti si se bio diskonektovao prije (%%TIME%%) na poziciji %%POSITION%%!",
-      "tooLongBooth":"[dc] @%%USER%% Ti si se diskonektovao prije (%%TIME%%) minuta.",
-      "tooTimeElap":"[dc] @%%USER%% Diskonektovao si se odavde prije %%TIME%% , ali pesma je zavrsena %%PERC%%% od celog trajanja!",
+      "notDisc":"[dc] @%%USER%% Nisi se diskonektovao tokom mog boravka ovdj/e!",
+      "tooLong":"[dc] @%%USER%% Ti si se bio diskonektovao prij/e (%%TIME%%) na poziciji %%POSITION%%!",
+      "tooLongBooth":"[dc] @%%USER%% Ti si se diskonektovao prij/e (%%TIME%%) minuta.",
+      "tooTimeElap":"[dc] @%%USER%% Diskonektovao si se odavde prij/e %%TIME%% , ali pesma je zavrsena %%PERC%%% od celog trajanja!",
       "disc":"[dc] @%%USER%% Diskonektovao si se odavde prije %%TIME%% na poziciji %%POSITION%%",
       "discBooth":"[dc] @%%USER%% Diskonektovan si odavde. %%TIME%% u playlisti posle %%PERC%% tvoje pesme",
       "alrAct":"[dc] @%%USER%% DC query je vec omogucen",
