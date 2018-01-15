@@ -63,15 +63,15 @@ plugged.on(plugged.USER_JOIN, function(user) {
 plugged.on(plugged.CHAT, function(chat) {
     if (chat.message.indexOf('skip') !== -1 || chat.message.indexOf('Skip') !== -1){                
                     var SKmsg = ["Traziti s/kip nije dozvoljeno, procitaj pravila!","Koristi !rules ako si novi, traziti s/kip nije dozvoljeno."];
-                    bot.sendChat("@" + chat.username + " " + SKmsg[Math.floor(Math.random() * SKmsg.length)]);
+                    plugged.sendChat("@" + chat.username + " " + SKmsg[Math.floor(Math.random() * SKmsg.length)]);
 } 
     if (chat.message.indexOf('Kako?') !== -1){                
                     var KAKMsg = ["Tako!","Onako!","Sta te briga!"];
-                    bot.sendChat("@" + chat.username + " " + KAKMsg[Math.floor(Math.random() * KAKMsg.length)]);
+                    plugged.sendChat("@" + chat.username + " " + KAKMsg[Math.floor(Math.random() * KAKMsg.length)]);
 } 
 if (chat.message.indexOf('Gdje?') !== -1){                
                     var GDJMsg = ["Kod ivana!","Na kaucu?","Kod tetke mi ha?","U sobi mozda?"];
-                    bot.sendChat("@" + chat.username + " " + GDJMsg[Math.floor(Math.random() * GDJMsg.length)]);
+                    plugged.sendChat("@" + chat.username + " " + GDJMsg[Math.floor(Math.random() * GDJMsg.length)]);
 } 
 
 });
