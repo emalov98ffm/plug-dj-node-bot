@@ -54,7 +54,7 @@ Commands
 - Roullete (Soon or fix it :p)
 
 -----------------
-Bot now respond to these words (Be creative when you ask)
+Bot now respond to these words (Be creative)
 ---
 
 - Kako?, Kako
