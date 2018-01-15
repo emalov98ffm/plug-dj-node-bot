@@ -59,6 +59,7 @@ plugged.on(plugged.USER_JOIN, function(user) {
     plugged.sendChat(greet + "@" + user.username);
 });
 
+// S.A.M SADA GOVORI?
 plugged.on(plugged.CHAT, function(chat) {
     if (chat.message.indexOf('Kako?') !== -1) return plugged.sendChat("Tako!");
 });
