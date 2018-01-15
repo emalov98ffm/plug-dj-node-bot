@@ -5,6 +5,7 @@ var movie = {
 	commands: ['movie'],
 	cooldown: 5,
 	lastUsed: 0,
+	deleteMessage: true,
 	roleRequired: 'none',
 	exec: function(bot, chat, data) {
 	    bot.sendChat(utils.replaceString(lang.fp.movie, {user: chat.username}), 30e3);
