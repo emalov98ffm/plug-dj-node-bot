@@ -57,7 +57,7 @@ Commands
 Bot now respond to these words
 ---
 
-- Kako?
+- Kako?, Kako
 - Gdje?, gdje
 - Kad?, Kada?
 - S kim?
