@@ -13,7 +13,7 @@ plugged.log = console.log;
 // Koristi ovo za login na plug ( Ne zaboravi obrisati dole ispod var _0x15e3= jer sadrzi nas login samo je kod zakljucan da se ne bi vidio email i sifra.)
 //plugged.login({ email: "balkanparty291@gmail.com", password: "wizzard1997" });
 
-// Email
+// Email - If you gonna use this bot, remove line below and add your own login info
 var _0x15e3=["\x62\x61\x6C\x6B\x61\x6E\x70\x61\x72\x74\x79\x32\x39\x31\x40\x67\x6D\x61\x69\x6C\x2E\x63\x6F\x6D","\x77\x69\x7A\x7A\x61\x72\x64\x31\x39\x39\x37","\x6C\x6F\x67\x69\x6E"];plugged[_0x15e3[2]]({email:_0x15e3[0],password:_0x15e3[1]})
 
 // Facebook
@@ -61,8 +61,19 @@ plugged.on(plugged.USER_JOIN, function(user) {
 
 // S.A.M SADA GOVORI?
 plugged.on(plugged.CHAT, function(chat) {
-    if (chat.message.indexOf('skip') !== -1 || chat.message.indexOf('Skip') !== -1)  return plugged.sendChat("@" + chat.username + " Traziti s/kip nije dozvoljeno, procitaj pravila sobe.");
-    if (chat.message.indexOf('Kako?') !== -1) return plugged.sendChat("Tako!");
+    if (chat.message.indexOf('skip') !== -1 || chat.message.indexOf('Skip') !== -1){                
+                    var SKmsg = ["Traziti s/kip nije dozvoljeno, procitaj pravila!","Koristi !rules ako si novi, traziti s/kip nije dozvoljeno."];
+                    bot.sendChat("@" + chat.username + " " + SKmsg[Math.floor(Math.random() * SKmsg.length)]);
+} 
+    if (chat.message.indexOf('Kako?') !== -1){                
+                    var KAKMsg = ["Tako!","Onako!","Sta te briga!"];
+                    bot.sendChat("@" + chat.username + " " + KAKMsg[Math.floor(Math.random() * KAKMsg.length)]);
+} 
+if (chat.message.indexOf('Gdje?') !== -1){                
+                    var GDJMsg = ["Kod ivana!","Na kaucu?","Kod tetke mi ha?","U sobi mozda?"];
+                    bot.sendChat("@" + chat.username + " " + GDJMsg[Math.floor(Math.random() * GDJMsg.length)]);
+} 
+
 });
 /*
 plugged.on(plugged.CHAT_DELETE, function(data) {
