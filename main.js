@@ -60,7 +60,7 @@ plugged.on(plugged.USER_JOIN, function(user) {
 });
 
 plugged.on(plugged.CHAT, function(chat) {
-    if (chat.message.indexOf('test') !== -1) return plugged.sendChat("Radi");
+    if (chat.message.indexOf('Kako?') !== -1) return plugged.sendChat("Tako!");
 });
 /*
 plugged.on(plugged.CHAT_DELETE, function(data) {
