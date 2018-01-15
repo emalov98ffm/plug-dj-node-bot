@@ -54,11 +54,11 @@ Commands
 - Roullete (Soon or fix it :p)
 
 -----------------
-Bot now respond to these words
+Bot now respond to these words (Be creative when you ask)
 ---
 
 - Kako?, Kako
-- Gdje?, gdje
+- Gdje?, Gdje
 - Kad?, Kada?
 - S kim?
 - Sta?, Sta
