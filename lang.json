@@ -127,7 +127,21 @@
          "Vrijeme je da pitas tu posebnu osobu na sastanak.",
          "Za dobre stvari treba vremena."
       ],
+      "cookielist": [
+        "vam je dao cokoladni kolacic!",
+	     "ti je dao kolačić od mehki domaći zobeni pahuljica!",
+	     "vam je dao običan, suv, stari kolačić. To je bio posljednji u torbu. bljak.",
+	     "daje vam šećerni kolačić. Ono, bez glazura i mrvica? 0/10 ne bih dirao?",
+	     "daje vam čokoladni kolačić. Čekaj, to su grožđice. xx.X !.",
+	     "daje vam ogromni kolačić. razbijanjem, to vam daje više kolačića. Čudno.",
+	     "daje vam zaltni kolacic. Ne možete jesti zato što je od zlata. Prokletstvo.",
+	     "daje vam Oreo keks uz čašu mlijeka!",
+	     "daje vam dugin kolačić napravljen s ljubavlju: heart:",
+	     "daje vam stari kolačić koji je ostao na kiši, to je buđav.",
+	     "peče vam svježe kolačiće, miriše sjajno."
+     ],
       "cookie":"[fortunecookie] @%%USER%% Tvoj sretni kolacic kaze: %%FORTUNE%%."
+      "cookie2":"@%%USER1%% @%%USER2%% %%COOKIE%%",
    },
    "general":{  
       "ghost":"@%%USER%% Ne vidim te u sobi! Probaj opet za par sekundi.",
