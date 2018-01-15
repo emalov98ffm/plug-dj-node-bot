@@ -140,8 +140,8 @@
 	     "daje vam stari kolačić koji je ostao na kiši, to je buđav.",
 	     "peče vam svježe kolačiće, miriše sjajno."
      ],
-      "cookie":"[fortunecookie] @%%USER%% Tvoj sretni kolacic kaze: %%FORTUNE%%."
-      "cookie2":"@%%USER1%% @%%USER2%% %%COOKIE%%",
+      "cookie":"[fortunecookie] @%%USER%% Tvoj sretni kolacic kaze: %%FORTUNE%%.",
+      "cookie2":"@%%USER1%% @%%USER2%% %%COOKIE%%"
    },
    "general":{  
       "ghost":"@%%USER%% Ne vidim te u sobi! Probaj opet za par sekundi.",
