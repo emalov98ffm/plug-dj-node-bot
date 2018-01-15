@@ -12,7 +12,7 @@
    "lockskip": 3,
    "links": {
       "rules": "https://github.com/Bosanka/Pravila/wiki",
-      "commands": "https://github.com/ajdin1997/plug-dj-node-bot#commands"
+      "commands": "https://ajdin1997.github.io/plug-dj-node-bot/"
    },
    "emotelimit": {
       "limit": 6
