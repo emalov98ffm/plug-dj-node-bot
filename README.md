@@ -63,6 +63,7 @@ Bot now respond to these words
 - S kim?
 - Sta?, Sta
 - Zasto?, Zasto, Sto
+
 -----------------
 Languages
 ---
