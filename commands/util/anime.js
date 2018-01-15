@@ -5,6 +5,7 @@ var anime = {
 	commands: ['anime'],
 	cooldown: 5,
 	lastUsed: 0,
+	deleteMessage: true,
 	roleRequired: 'none',
 	exec: function(bot, chat, data) {
 	    bot.sendChat(utils.replaceString(lang.fp.anime, {user: chat.username}), 30e3);
