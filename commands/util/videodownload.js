@@ -5,6 +5,7 @@ var vdownload = {
 	commands: ['vdownload'],
 	cooldown: 5,
 	lastUsed: 0,
+	deleteMessage: true,
 	roleRequired: 'none',
 	exec: function(bot, chat, data) {
 		            var media = bot.getMedia();
