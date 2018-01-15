@@ -61,7 +61,7 @@ plugged.on(plugged.USER_JOIN, function(user) {
 
 // S.A.M SADA GOVORI?
 plugged.on(plugged.CHAT, function(chat) {
-    if (chat.message.indexOf('skip') !== -1 || chat.message.indexOf('Skip') !== -1)  return plugged.sendChat("@" + chat.username + "Traziti skip nije dozvoljeno, procitaj pravila sobe.");
+    if (chat.message.indexOf('skip') !== -1 || chat.message.indexOf('Skip') !== -1)  return plugged.sendChat("@" + chat.username + "Traziti s/kip nije dozvoljeno, procitaj pravila sobe.");
     if (chat.message.indexOf('Kako?') !== -1) return plugged.sendChat("Tako!");
 });
 /*
