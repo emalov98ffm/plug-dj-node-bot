@@ -141,7 +141,7 @@
 	     "peče vam svježe kolačiće, miriše sjajno."
      ],
       "cookie":"[fortunecookie] @%%USER%% Tvoj sretni kolacic kaze: %%FORTUNE%%.",
-      "cookie2":"@%%USER1%% @%%NAMETO%% %%COOKIE%%"
+      "cookie2":"@%%USER%% @%%NAMETO%% %%COOKIE%%"
    },
    "general":{  
       "ghost":"@%%USER%% Ne vidim te u sobi! Probaj opet za par sekundi.",
