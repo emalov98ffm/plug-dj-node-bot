@@ -54,7 +54,7 @@ plugged.on(plugged.JOINED_ROOM, function _joinedRoom() {
 });
 
 plugged.on(plugged.USER_JOIN, function(user) {
-    var greets = ['Dobrodosao/la <3 ', 'Svi pozelite dobrodoslicu ', 'Upravo je usao '];
+    var greets = ['Dobrodosao/la <3 ', 'Svi pozelite dobrodoslicu ', 'Upravo je usao/la '];
     var greet = greets[Math.floor(Math.random()*greets.length)];
     plugged.sendChat(greet + "@" + user.username);
 });
