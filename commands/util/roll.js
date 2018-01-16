@@ -1,6 +1,7 @@
 var lang = require(process.cwd() + '/lang.json');
 var utils = require(process.cwd() + '/utils/utils');
 var auxapi = require(process.cwd() + '/auxapi');
+var settings = require(process.cwd() + '/settings');
 
 var roll = {
 	commands: ['roll'],
@@ -17,7 +18,9 @@ var roll = {
 					if(randomispis == 2) {				
 	    return bot.sendChat("@" + chat.username + ", cestitam, upravo si osvojio prvo mjesto.");
 					var user = auxapi.users.getUserByID(chat.id);
-					bot.moveDJ(user.id, 1, false);
+					var pos = parseInt(data.params.shift());
+					pos = settings.data.roll;
+					bot.moveDJ(user, pos);
 	}
 	else
 					{
