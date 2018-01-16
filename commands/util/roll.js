@@ -16,9 +16,9 @@ var roll = {
 					var randomispis = Math.floor((Math.random() * randomMax) + 1)
 					if(randomispis == 2) {				
 	                                bot.sendChat("@" + chat.username + ", cestitam, upravo si osvojio prvo mjesto.");
-					var user = auxapi.users.getUserByID(chat.id);
-					var pos = 1;
-					bot.moveDJ(user, pos);
+					var name = chat.username;
+					var user = auxapi.users.getUserByID(name.id);
+					bot.moveDJ(user, 1);
 	}
 	else
 					{
