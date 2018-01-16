@@ -10,6 +10,7 @@
       "avg": 240
    },
    "lockskip": 3,
+   "roll": 1,
    "links": {
       "rules": "https://github.com/Bosanka/Pravila/wiki",
       "commands": "https://ajdin1997.github.io/plug-dj-node-bot/"
