@@ -12,10 +12,10 @@ var roll = {
 	var user = auxapi.users.getUserByID(chat.id);
 	var randomMax = data.params[1] + 1;
 					if ((isNaN(randomMax) == true) || (randomMax.length == 0)) {
-						var randomMax = 60
+						var randomMax = 2
 					}
 					var randomispis = Math.floor((Math.random() * randomMax) + 1)
-					if(randomispis == 6) {				
+					if(randomispis == 1) {				
 	    return bot.sendChat("@" + chat.username + ", cestitam, upravo si osvojio prvo mjesto.");
 					bot.moveDJ(user, 1);
 	}
