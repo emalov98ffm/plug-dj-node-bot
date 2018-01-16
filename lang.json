@@ -179,7 +179,7 @@
       "alrDis":"[dc] @%%USER%% DC query je vec onemoguceno",
       "disabled":"[dc] @%%USER%% DC account onemugucen",
       "invalidTime":"[dc] @%%USER%% Nevazece vreme (10 ~ 720)!",
-      "newTime":"[dc] @%%USER%% Novi vremenski raspored namesten: %%TIME%% minuta",
+      "newTime":"[dc] @%%USER%% Novi vremenski raspored namjesten: %%TIME%% minuta",
       "disTimeElap":"[dc] @%%USER%% Vremenski raspored je onemogucen!",
       "invalidPerc":"[dc] @%%USER%% Nevazeci procenat (0 ~ 100)! ",
       "DCRule":"[dc] @%%USER%% DC pravila: ",
