@@ -268,7 +268,7 @@
    "historycheck":{  
       "enabled":"[mod] [historycheck] @%%USER%% Provjera historije je aktivirana!",
       "disabled":"[mod] [historycheck] @%%USER%% Provjera historije je deaktivirana!",
-      "songInHistory":"[historycheck] @%%USER%% Pjesma u historiji (%%HPOS%%/%%HLEN%%), pustena %%HMPLAY%% puta, (pustena %%HMUPLAY%% od %%USER%%), posljednje pustena %%TIME%% od %%LASTUSER%%"
+      "songInHistory":"[historycheck] @%%USER%% Pjesma je u historiji (%%HPOS%%/%%HLEN%%), pustena %%HMPLAY%% puta, (pustena %%HMUPLAY%% od %%USER%%), posljednji put pustena %%TIME%% od %%LASTUSER%%"
    },
    "afkremoval":{  
       "enabled":"[mod] [afkremoval] @%%USER%% Afkremoval je aktiviran!",
