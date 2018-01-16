@@ -9,7 +9,6 @@ var roll = {
 	deleteMessage: true,
 	roleRequired: 'none',
 	exec: function(bot, chat, data) {
-	var user = auxapi.users.getUserByID(chat.username);
 	var randomMax = data.params[1] + 1;
 					if ((isNaN(randomMax) == true) || (randomMax.length == 0)) {
 						var randomMax = 2
@@ -17,6 +16,7 @@ var roll = {
 					var randomispis = Math.floor((Math.random() * randomMax) + 1)
 					if(randomispis == 1) {				
 	    return bot.sendChat("@" + chat.username + ", cestitam, upravo si osvojio prvo mjesto.");
+					var user = auxapi.users.getUserByID(chat.id);
 					bot.moveDJ(user, 1);
 	}
 	else
