@@ -9,7 +9,7 @@ var roll = {
 	deleteMessage: true,
 	roleRequired: 'none',
 	exec: function(bot, chat, data) {
-	var user = auxapi.users.getUserByID(chat.id);
+	var user = auxapi.users.getUserByID(chat.username);
 	var randomMax = data.params[1] + 1;
 					if ((isNaN(randomMax) == true) || (randomMax.length == 0)) {
 						var randomMax = 2
