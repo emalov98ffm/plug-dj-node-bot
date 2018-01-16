@@ -69,7 +69,7 @@ plugged.on(plugged.CHAT, function(chat) {
         var KAKMsg = ["Tako!", "Onako!", "St/a te briga!", "Nikako.","Fino!!","Bolje da ne znas!!","Pitaj Merimu!!"];
         plugged.sendChat("@" + chat.username + " " + KAKMsg[Math.floor(Math.random() * KAKMsg.length)]);
     }
-    if (chat.message.indexOf('Gdje?') !== -1 || chat.message.indexOf('dje') !== -1) {
+    if (chat.message.indexOf('Gdje?') !== -1 || chat.message.indexOf('Gdje') !== -1) {
         var GDJMsg = ["Kod ivana!", "Na kaucu?", "Kod tetke mi ha?", "U sobi mozda?","Kod ivana hu","U pm!!"];
         plugged.sendChat("@" + chat.username + " " + GDJMsg[Math.floor(Math.random() * GDJMsg.length)]);
     }
