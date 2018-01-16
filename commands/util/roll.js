@@ -17,7 +17,7 @@ var roll = {
 					if(randomispis == 1) {				
 	    return bot.sendChat("@" + chat.username + ", cestitam, upravo si osvojio prvo mjesto.");
 					var user = auxapi.users.getUserByID(chat.id);
-					bot.moveDJ(user.id, 1);
+					bot.moveDJ(user.id, 1, false);
 	}
 	else
 					{
