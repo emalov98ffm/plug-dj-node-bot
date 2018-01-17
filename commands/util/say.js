@@ -10,9 +10,9 @@ var say = {
 	exec: function(bot, chat, data) {
 	var echohistory1, echohistory2;
 	var echoMessage =  data.params;
-	 if (echoMessage.length == 0) {
+	 if (data.params.length == 0) {
                         bot.sendChat("@" + chat.username + ", tesko je ponoviti nista.");
-                    } else if (echoMessage.includes("!") || echoMessage.includes(" !")) {
+                    } else if (data.params.includes("!") || data.params.includes(" !")) {
                         bot.sendChat("@" + chat.username + ", pokusavas da ponovim komandu? Nista od toga, pokusaj nesto drugo.");
                     } else {
                         bot.sendChat(echoMessage);
