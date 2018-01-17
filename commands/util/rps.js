@@ -14,7 +14,7 @@ var rps = {
 	var choices = ["rock", "paper", "scissors", "lizard", "spock"];
     var botChoice = choices[Math.floor(Math.random()*choices.length)];
 	var chatPrefix = "/me ";
-    var userChoice = data.params[0];
+    var userChoice = data.params[1];
 	if(botChoice == userChoice){
                     bot.sendChat(chatPrefix+"chose "+botChoice+"! It's a draw!");
                 } else if(botChoice == choices[0] && userChoice == choices[1]){
