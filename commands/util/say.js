@@ -1,9 +1,6 @@
 var lang = require(process.cwd() + '/lang.json');
 var utils = require(process.cwd() + '/utils/utils');
 
-    echoHistory1 = [],
-    echoHistory2 = [],
-
 var say = {
 	commands: ['say'],
 	cooldown: 5,
@@ -18,8 +15,6 @@ var say = {
                     } else if (echoMessage[0] == "!" || echoMessage.includes(" !")) {
                         bot.sendChat("@" + chat.username + ", pokusavas da ponovim komandu? Nista od toga, pokusaj nesto drugo.");
                     } else {
-                echoHistory1.push(chat.username);
-                echoHistory2.push(echoMessage);
                         bot.sendChat(echoMessage);
                     }
 //
