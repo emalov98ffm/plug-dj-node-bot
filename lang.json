@@ -190,6 +190,11 @@
       "on":"Ukljuceno",
       "off":"Iskljuceno"
    },
+   "rps":{  
+      "win":"[rps] Pobjedio si @%%USER%%. S.A-M je odabrao: %%CHOICE%%",
+      "lose":"[rps] Izgubio si @%%USER%%. S.A-M je odabrao: %%CHOICE%%",
+      "draw":"[rps] Nerjeseno je @%%USER%%. S.A-M je odabrao: %%CHOICE%%"
+   },
    "ping":{  
       "ping":"[ping] @%%USER%% pong!",
       "pong":"[pong] @%%USER%% ping!",
