@@ -6,7 +6,7 @@ var say = {
 	cooldown: 5,
 	lastUsed: 0,
 	deleteMessage: true,
-	roleRequired: 'none',
+	roleRequired: 'bouncer',
 	exec: function(bot, chat, data) {
 	var echohistory1, echohistory2;
 	var echoMessage =  data.params + 1;
