@@ -30,7 +30,7 @@
       "on": false
    },
    "songinfo": {
-      "on": true,
+      "on": false,
       "lockskip": true
    },
    "historycheck": {
