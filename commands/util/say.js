@@ -8,11 +8,11 @@ var say = {
 	deleteMessage: true,
 	roleRequired: 'bouncer',
 	exec: function(bot, chat, data) {
-	var echoMessage =  data.params[1];
-	 if (echoMessage.length == 0) {
-                        bot.sendChat("@" + chat.username + ", tesko je ponoviti nista.");
+	var echoMessage =  data.params[0];
+	 if (data.params.length == 0) {
+                        return bot.sendChat("@" + chat.username + ", tesko je ponoviti nista.");
                     } else if (echoMessage[0] == "!" || echoMessage.includes(" !")) {
-                        bot.sendChat("@" + chat.username + ", pokusavas da ponovim komandu? Nista od toga, pokusaj nesto drugo.");
+                       return bot.sendChat("@" + chat.username + ", pokusavas da ponovim komandu? Nista od toga, pokusaj nesto drugo.");
                     } else {
                         bot.sendChat(echoMessage);
                     }
