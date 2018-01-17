@@ -6,7 +6,7 @@ var say = {
 	cooldown: 5,
 	lastUsed: 0,
 	deleteMessage: true,
-	roleRequired: 'bouncer',
+	roleRequired: 'residentdj',
 	exec: function(bot, chat, data) {
 	var echoMessage =  data.params[0];
 	 if (data.params.length == 0) {
