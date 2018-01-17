@@ -8,13 +8,13 @@ var rps = {
 	deleteMessage: false,
 	roleRequired: 'none',
 	exec: function(bot, chat, data) {
-	if(!args[0]){
+	if(data.params[0]){
        bot.sendChat("/me Da bi igrao rock paper scissors koristi !rps {izbor}");
 	} else {
 	var choices = ["rock", "paper", "scissors", "lizard", "spock"];
     var botChoice = choices[Math.floor(Math.random()*choices.length)];
 	var chatPrefix = "/me ";
-    var userChoice = args[0];
+    var userChoice = data.params[0];
 	if(botChoice == userChoice){
                     bot.sendChat(chatPrefix+"chose "+botChoice+"! It's a draw!");
                 } else if(botChoice == choices[0] && userChoice == choices[1]){
