@@ -8,8 +8,10 @@ var rps = {
 	deleteMessage: false,
 	roleRequired: 'none',
 	exec: function(bot, chat, data) {
-	if(data.params[0]){
+	var space = chat.msg.indexOf(' ');
+	if( (space === -1) ){
        bot.sendChat("/me Da bi igrao rock paper scissors koristi !rps {izbor}");
+	return false;
 	} else {
 	var choices = ["rock", "paper", "scissors", "lizard", "spock"];
     var botChoice = choices[Math.floor(Math.random()*choices.length)];
