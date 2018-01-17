@@ -126,7 +126,7 @@ var room = {
 		hasPermission: function(user, role) {
 			var roles = [
 				'user',
-				'resdj',
+				'residentdj',
 				'bouncer',
 				'manager',
 				'cohost',
