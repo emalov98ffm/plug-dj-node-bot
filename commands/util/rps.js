@@ -13,7 +13,7 @@ var rps = {
 	} else {
 	var choices = ["rock", "paper", "scissors", "lizard", "spock"];
     var botChoice = choices[Math.floor(Math.random()*choices.length)];
-    var userChoice = data.params[];
+    var userChoice = data.params[1] + 1;
 	if(botChoice == userChoice){
                    return  bot.sendChat(utils.replaceString(lang.rps.draw, {choice: botChoice, user: chat.username}), 30e3);
                 } else if (botChoice == "rock" && userChoice == "paper") {
