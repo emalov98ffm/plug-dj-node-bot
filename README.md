@@ -22,6 +22,7 @@ Commands
 ---
 - __MinRank - Command -  Explanation__
 
+- Bouncer - Say - Bot will repeat whatever you write
 - User - Ask or 8ball - Ask bot question, with yes or no answers
 - User - Emoji - Get list of all emojis to use on plug.dj
 - User - Heart - See how much bot loves you
