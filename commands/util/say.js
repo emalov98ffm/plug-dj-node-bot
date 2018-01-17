@@ -1,9 +1,6 @@
 var lang = require(process.cwd() + '/lang.json');
 var utils = require(process.cwd() + '/utils/utils');
 
-	echoHistory1: [],
-    echoHistory2: [],
-
 var say = {
 	commands: ['say'],
 	cooldown: 5,
