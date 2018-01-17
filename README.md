@@ -1,6 +1,6 @@
 # Plug dj bot writed in node.js with commands
 - A complete community bot
-
+-  __IMPORTANT__ Some commands doesnt work, they needs to be fixed if you want to help, message me
 
 -------------
 Our Team
