@@ -9,10 +9,10 @@ var say = {
 	roleRequired: 'bouncer',
 	exec: function(bot, chat, data) {
 	var echohistory1, echohistory2;
-	var echoMessage =  data.params.substr(1);
-	 if (data.params.length == 0) {
+	var echoMessage =  data.params[+1];
+	 if (echoMessage.length == 0) {
                         bot.sendChat("@" + chat.username + ", tesko je ponoviti nista.");
-                    } else if (data.params[0] == "!" || data.params.includes(" !")) {
+                    } else if (echoMessage[0] == "!" || echoMessage.includes(" !")) {
                         bot.sendChat("@" + chat.username + ", pokusavas da ponovim komandu? Nista od toga, pokusaj nesto drugo.");
                     } else {
                         bot.sendChat(echoMessage);
