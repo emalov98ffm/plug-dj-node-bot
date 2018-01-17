@@ -12,7 +12,7 @@ var songinfo = {
 	cooldown: 5,
 	lastUsed: 0,
 	deleteMessage: true,
-	roleRequired: 'residentdj',
+	roleRequired: 'resdj',
 	songURL: null,
 	songInfo: null,
 	songImage: null,
