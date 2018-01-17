@@ -8,8 +8,7 @@ var say = {
 	deleteMessage: true,
 	roleRequired: 'bouncer',
 	exec: function(bot, chat, data) {
-	var echohistory1, echohistory2;
-	var echoMessage =  data.params[+1];
+	var echoMessage =  data.params[1];
 	 if (echoMessage.length == 0) {
                         bot.sendChat("@" + chat.username + ", tesko je ponoviti nista.");
                     } else if (echoMessage[0] == "!" || echoMessage.includes(" !")) {
