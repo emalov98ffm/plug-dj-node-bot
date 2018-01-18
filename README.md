@@ -2,7 +2,7 @@
 - A complete community bot
 -  __IMPORTANT__ Some commands doesnt work, they needs to be fixed if you want to help, message me
 
-#BROKEN, Doesnt recognize new roles, pluggged needs to be upgraded and some commands fixed, i you want to fix it write to me
+# BROKEN, Doesnt recognize new roles, pluggged needs to be upgraded and some commands fixed, i you want to fix it write to me
 
 -------------
 Our Team
