@@ -101,4 +101,4 @@ plugged.on(plugged.VOTE, function(data) {
 });*/
 
 app.get('/', (req, res) => res.send('S.I.M.BOT is UP and running.'));
-app.listen(process.env.PORT || 3000, () => console.log('Bot Running!'));
+app.listen(process.env.PORT || 3000, () => console.log('Bot is Running!'));
