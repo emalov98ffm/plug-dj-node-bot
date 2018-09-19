@@ -11,7 +11,7 @@ var plugged = new Plugged();
 plugged.log = console.log;
 
 // Bot Login
-plugged.login({ email: "", password: "" });
+plugged.login({ email: "emanuell1761998@gmail.com", password: "xerion7a" });
 
 // Facebook
 /*plugged.login({
@@ -22,7 +22,7 @@ plugged.login({ email: "", password: "" });
 plugged.on(plugged.LOGIN_SUCCESS, function(data) {
 	console.log('Login ok');
     plugged.cacheChat(true);
-    plugged.connect("yugoslavia-balkan-music");
+    plugged.connect("best-party-19");
 });
 
 plugged.on(plugged.LOGIN_ERROR, function(err) {
