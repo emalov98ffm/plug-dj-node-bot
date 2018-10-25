@@ -22,7 +22,7 @@ plugged.login({ email: "emanuell1761998@gmail.com", password: "xerion7a" });
 plugged.on(plugged.LOGIN_SUCCESS, function(data) {
 	console.log('Login ok');
     plugged.cacheChat(true);
-    plugged.connect("best-party-19");
+    plugged.connect("big-city-beats-edm");
 });
 
 plugged.on(plugged.LOGIN_ERROR, function(err) {
